@@ -83,7 +83,7 @@ A repository used for keeping track of my Misty Vale campaign additions
 19. Beat [Bub][Bee][Sss][Lay] (ivorybuttocks) discord https://discord.com/channels/1173874944430579733/1258830186099638333 or dunno arigato mr magoto (Anung) discord https://discord.com/channels/1173874944430579733/1199968943759171624
 20. GrimShroom Games(Catazz) Discord https://discord.com/channels/1173874944430579733/1258494444769116171 or Dragonspawn manor (ChristianKlinge) https://discord.com/channels/1173874944430579733/1258739364159291489
 21.
-22. Horuklax npc above
+22. Hags Hut (emerald mage) drivethrough https://www.drivethrurpg.com/en/product/485967/the-hag-s-hut
 23. Northern Beasts Kickstarter may have a Titan adventure that will slot in here well once released. https://www.kickstarter.com/projects/titanforgeminis/dragonbane-rpg-miniatures-northern-beasts
 24.
 25. Lindowrm Cavern (Emerald Mage Drivethrough)
