@@ -1,8 +1,7 @@
 # misty-vale-project
 
-A repository used for keeping track of my Misty Vale campaign additions
+A repository used for keeping track of my Misty Vale campaign additions, the two maps in the github are partially what this list is keyed off of. 
 
-## Wools Big list of Misty Vale-ness
 
 ## Additional NPC's of the Vale
 
