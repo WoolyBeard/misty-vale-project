@@ -57,6 +57,9 @@ A repository used for keeping track of my Misty Vale campaign additions, the two
 
 ---
 
+
+![DragonBurnMap](./DragonBurnMap.webp)
+
 # DragonBurn additional Locations
 
 (Some of the smaller ones ive omitted if someone wants theirs or knows another throw it in!)
