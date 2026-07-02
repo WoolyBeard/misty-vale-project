@@ -5,7 +5,7 @@ A repository used for keeping track of my Misty Vale campaign additions, the two
 
 ## Additional NPC's of the Vale
 
-![DragonBurnMap](./QQuacksworth.webp)
+![Quacksworth](./QQuacksworth.webp)
 
 ### JetSetRadio
 
