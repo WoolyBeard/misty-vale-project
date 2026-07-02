@@ -5,6 +5,10 @@ A repository used for keeping track of my Misty Vale campaign additions, the two
 
 ## Additional NPC's of the Vale
 
+###JetSetRadio
+
+- https://discord.com/channels/1173874944430579733/1213884866299699251 - Sir Quacksworth
+
 ### Tak5haka
 
 - https://discord.com/channels/1173874944430579733/1210710378393374814 - Ningungo Cat person bounty hunter
