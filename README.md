@@ -81,7 +81,7 @@ A repository used for keeping track of my Misty Vale campaign additions, the two
 9. Draakenslund, Draakens Heart (Laidback Drivetrhough) https://www.drivethrurpg.com/en/product/534002/draakenslund-adventures-5-draaken-s-heart
 10. Eloras Emporium (K.J Montgommery) discord https://discord.com/channels/1173874944430579733/1200645097063202846
 11. Beast of the Vale (BlinkDog) Discord https://discord.com/channels/1173874944430579733/1200705835425337374
-12. Grimoire of the mad fire mage (Sradhappa) Discord https://discord.com/channels/1173874944430579733/1196833053394358423 (I think this might benefit with a summoned Calydon or something also moved from 13 to allow for others)
+12. Grimoire of the mad fire mage (Sradhappa) Discord https://discord.com/channels/1173874944430579733/1196833053394358423 (I think this might benefit with a summoned Calydon or something also moved from 13 to allow for others) [The Burnt Cottage](Adventures/the-burnt-cottage.md)
 13. Where to Next (tak5haka) https://discord.com/channels/1173874944430579733/1182436418396635156/1183535705616547911
 14. Whispers of a ruined tower (Midgar Press) https://www.drivethrurpg.com/en/product/469097/whispers-of-a-ruined-tower-adventure-for-dragonbane-drakar-och-demoner or Weatherstone from forbidden lands (replace the creature with a demon) or Skyblind spire Trilemma adventures
 15.
