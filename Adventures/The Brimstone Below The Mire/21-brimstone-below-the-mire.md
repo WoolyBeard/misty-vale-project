@@ -47,7 +47,7 @@ Use these in place of, or alongside, the standard Dragonbane journey mishaps whi
 
 
 
-![TempleoftheSulphurBeast](Adventures/The Brimstone Below The Mire/temple_of_the_sulphur_beast.png)
+![TempleoftheSulphurBeast](temple_of_the_sulphur_beast.png)
 
 
 ## Approaching the temple
