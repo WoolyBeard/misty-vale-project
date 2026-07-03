@@ -17,6 +17,20 @@ They were livestock.
 Eledain's court mages uncovered the truth through a scrying ritual: the creature was preparing to flood the surface with its ravenous brood. Unable to destroy it, Eledain struck a desperate bargain with the ancient giants. One of their colossal war machines was sent to the temple, where it held the gates shut while the complex was sealed. The titan fell at its post, entombing the cult, their false god, and whatever still waited beneath the mire.
 
 
+
+## Rumours of Brimstone Below the Mire
+
+Ask around any hearth, ferry, or lonely homestead near the southern marshes and you'll hear whispers of the old temple. Roll **1D6** or choose a rumour.
+
+| d6 | Rumour | Truth? |
+|:--:|---------|:------:|
+| 1 | **The swamp has begun bubbling again.** Hunters swear the water hisses at night, and yellow smoke rolls across the reeds. Something beneath the mire has awakened. | **True** |
+| 2 | **An iron giant still guards the temple.** It hasn't moved in centuries, but folk say anyone who tries to force the doors open will wake it. | **True** (The titan still stands, though whether it can awaken is another matter.) |
+| 3 | **The temple was sealed for a reason.** Old stories claim Eledain himself ordered it closed after his mages discovered something beneath the swamp that should never see daylight again. | **True** |
+| 4 | **The temple vault holds Eledain's lost dragon-slaying sword.** Plenty have gone looking for it. None have returned with proof. | **False** |
+| 5 | **The bubbling pools are cursed.** Anyone who breathes the yellow vapours slowly turns to stone before sinking beneath the muck. | **False** |
+| 6 | **The titan's mace is forged from pure gold.** Dragging it out would make anyone richer than a king—if they could lift it. | **False** |
+
 ## Travelling near the Sulphured Swamp
 > Roll on these tables when travelling around or in hex 21. 
 
