@@ -35,45 +35,21 @@ Ask around any inn, or lonely homestead near the southern marshes and you'll hea
 > Roll on these tables when travelling around or in hex 21. 
 
 
-
-
-## Weather (1d8)
-
-The swamp is alive. Warm mud bubbles beneath every footstep, sulphur hangs thick in the air, and ancient fires still burn beneath the mire. Weather here is downright volcanic.
-
-
-| d8 | Weather | Effect |
-|:--:|----------|--------|
-| 1 | **Still Mire** | Oppressive humidity. No mechanical effect, but every sound carries. Random encounters are made with **Boon/Bane** in the creatures' favour. |
-| 2 | **Sulphur Fog** | Yellow mist blankets the swamp. Visibility is reduced to **Short** range. Scouts suffer **Bane** when keeping watch or navigating. |
-| 3 | **Ash Drift** | Fine grey ash falls like snow. Tracks disappear after an hour. Navigation rolls suffer **Bane**. Fires require twice as much fuel. |
-| 4 | **Steam Vents** | Hidden fumaroles burst from beneath the water. Anyone travelling off established paths must make an **Evade** roll or take minor fire damage and become **Exhausted**. |
-| 5 | **Brimstone Rain** | Warm acidic drizzle falls from above. Armour and weapons must be cleaned during camp or temporarily lose 1 point of durability until maintained. Open flames sputter constantly. |
-| 6 | **Burning Gas** | Blue flames dance across the bog where methane ignites. Movement is halved through affected areas. Any open flame risks triggering brief explosions. |
-| 7 | **Cinder Wind** | Hot winds carry burning ash. Ranged attacks beyond **Near** range suffer **Bane**. Everyone gains a level of fatigue unless they cover their face. |
-| 8 | **The Earth Breathes** | The ground rumbles as clouds of sulphur erupt from below. The Guide immediately makes a Navigation roll. On a failure, the party becomes lost as familiar paths disappear beneath boiling mud and steam. |
-
----
-
-## Journey Mishaps (1d12)
+## Journey Mishaps (1d8)
 
 Use these in place of, or alongside, the standard Dragonbane journey mishaps while travelling through the sulphur swamp.
 
-| d12 | Mishap |
-|:---:|--------|
-| 1 | **The Bog Ignites.** A sheet of blue fire races across stagnant water. Find cover or suffer fire damage. |
-| 2 | **Poison Vapours.** A low cloud of sulphur gas settles over the trail. Make a **CON** roll or become **Exhausted** until your next rest. |
-| 3 | **Boiling Sinkhole.** The earth gives way beneath someone's feet into scalding mud. Rescue them before they disappear beneath the mire. |
-| 4 | **The Path Dissolves.** Solid ground suddenly collapses into black muck. Lose half a day's progress finding another route. |
-| 5 | **Ancient Shrine.** A cracked basalt altar rises from the swamp. Fresh offerings sit upon it. Something nearby is watching. |
-| 6 | **Sulphur Spring.** Warm mineral pools bubble from beneath the earth. Drinking from them might cure an ailment—or inflict one. |
-| 7 | **Ashfall.** Thick ash blankets the camp. One ration is spoiled unless it was carefully protected. |
-| 8 | **Brimstone Fireflies.** Swarms of glowing insects gather around the party. Beautiful, but they attract hungry predators. |
-| 9 | **The Drowned Bell.** A temple bell rings from somewhere beneath the water. The next random encounter automatically knows the party's location. |
-| 10 | **Living Mud.** The mire shifts beneath every step. Travel progress is reduced for the day. |
-| 11 | **The Idol's Gaze.** A moss-covered stone face rises from the bog. Anyone who meets its gaze dreams of fire and regains no Willpower from sleep that night. |
-| 12 | **Temple Fumarole.** Steam erupts from the earth, briefly revealing ancient stone stairs descending beneath the swamp before they vanish once more into the fog. |
 
+| d8 | Mishap |
+|:--:|---------|
+| 1 | **Sulphur Fog.** Thick yellow vapours roll over the marsh. The Guide must immediately make a **Navigation** roll or the party becomes **Lost**. |
+| 2 | **Boiling Mud.** The ground bursts beneath a traveller's feet. They must succeed on an **Evade** roll or suffer **2D6 fire damage** and become **Exhausted**. |
+| 3 | **Blue Fire.** Escaping swamp gas ignites in a rushing wave of blue flame. Everyone must reach solid ground or suffer **fire damage**. The blaze quickly dies, leaving only scorched reeds. |
+| 4 | **The Path Gives Way.** What appeared to be firm ground collapses into deep mire. The party loses **a quarter day** finding another route unless someone succeeds at a suitable skill roll. |
+| 5 | **Ancient Marker.** Moss-covered stones bearing the symbol of a melting skull emerge from the swamp. Following them grants **Boon** on the next Navigation roll, but something has recently disturbed them. Roll for a random encounter. |
+| 6 | **Poison Vapours.** A low cloud of sulphurous gas settles over the trail. Everyone must make a **CON** roll or become **Exhausted** until they can rest. |
+| 7 | **The Mire Stirs.** The swamp begins bubbling violently as something enormous shifts far below. No creature appears, but every random encounter made before the next camp automatically detects the party first. |
+| 8 | **Forgotten Stairs.** Steam parts to reveal ancient stone steps rising from the bog toward a vine-covered ruin. They vanish back into the mist within minutes. If explored, they lead toward the sealed temple. |
 > *The swamp is never quiet. Even on the calmest day it hisses, bubbles, breathes, and occasionally burns.*
 
 ---
