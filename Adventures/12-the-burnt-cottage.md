@@ -1,6 +1,6 @@
 # Burnt Out Cottage of the mad fire mage 
 
-![BrimstoneBelowTheMire](../Images/BrimstoneBelowTheMire.png)
+![BrimstoneBelowTheMire](../Images/theburntcottage.png)
 
 ## Potential Map for the encounter
 https://www.reddit.com/r/battlemaps/comments/q0wcj6/burnt_out_farmhouse_and_cellar_20x15/
