@@ -1,1 +1,1 @@
-![BrimstoneBelowTheMire](misty-vale-project/Images/BrimstoneBelowTheMire.png)
+![BrimstoneBelowTheMire](../Images/BrimstoneBelowTheMire.png)
