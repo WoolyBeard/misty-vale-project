@@ -43,3 +43,15 @@ Use these in place of, or alongside, the standard Dragonbane journey mishaps whi
 | 12 | **Temple Fumarole.** Steam erupts from the earth, briefly revealing ancient stone stairs descending beneath the swamp before they vanish once more into the fog. |
 
 > *The swamp is never quiet. Even on the calmest day it hisses, bubbles, breathes, and occasionally burns.*
+
+
+
+
+## Approaching the temple
+
+
+As the swamp gives way to a crumbling staircase, twenty feet of ancient stone climbs toward a forgotten temple. The air grows heavy with humid heat, sulphur, and the metallic stink of copper mingled with rot. Around you, the mire bubbles and spits, belching pockets of foul gas that drift lazily through the reeds.
+
+At the summit, a fifteen-foot titan lies slumped against the shattered temple gates. Rusted and motionless, it resembles an immense suit of armor, one gauntleted hand still wrapped around the haft of a colossal mace. It looks as though it died holding the gates shut...or trying to.
+
+The temple beyond is cracked and overgrown, its walls strangled by roots and vines. Sulphurous vapors hiss from its fractured stonework, while above the entrance a colossal melting skull leers down. Every so often, a swollen bubble of swamp gas escapes from its gaping mouth, bursting with a wet pop before dissolving into a veil of yellow smoke. The shattered doors lie cast aside, a silent testament that whatever the titan stood against was stronger.
