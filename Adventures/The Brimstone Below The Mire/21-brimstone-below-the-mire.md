@@ -2,7 +2,8 @@
 
 
 
-## Travelling near the sulphured swamp, IE within 1 hex around 21. 
+## Travelling near the Sulphured Swamp
+> Roll on these tables when travelling around or in hex 21. 
 
 
 
