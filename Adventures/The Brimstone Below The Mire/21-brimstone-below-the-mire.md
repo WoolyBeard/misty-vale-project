@@ -46,7 +46,7 @@ Use these in place of, or alongside, the standard Dragonbane journey mishaps whi
 
 ---
 
-** Temple Of the Sulphur Beast
+## Temple Of the Sulphur Beast
 
 
 ![TempleoftheSulphurBeast](temple_of_the_sulphur_beast.png)
