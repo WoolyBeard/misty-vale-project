@@ -2,7 +2,7 @@
 
 
 
-## The Situation Thus Far
+## History
 
 During the height of Eledain's empire, a splinter sect abandoned the worship of dragons, believing only fire itself was worthy of reverence. They vanished into the great swamps, where they raised a temple above deep volcanic fissures, tending eternal flames fed by sulphur and brimstone.
 
@@ -15,6 +15,22 @@ They never realized they were not its chosen.
 They were livestock.
 
 Eledain's court mages uncovered the truth through a scrying ritual: the creature was preparing to flood the surface with its ravenous brood. Unable to destroy it, Eledain struck a desperate bargain with the ancient giants. One of their colossal war machines was sent to the temple, where it held the gates shut while the complex was sealed. The titan fell at its post, entombing the cult, their false god, and whatever still waited beneath the mire.
+
+## Current Situation
+
+The giant forged wards that once sealed the Temple Beneath the Mire are failing.
+
+For centuries, the fallen titan held the shattered gates closed while ancient runes bound the horror sleeping below. Time, neglect, and the slow corruption of the swamp have weakened those wards. Cracks spread through the temple, sulphurous vapours seep from the earth, and the mire itself has begun to boil.
+
+Beneath the temple, the leviathan stirs.
+
+Unless the creature is stopped, it will soon awaken and transform **Hex 21** into a volcanic wasteland. Rivers of boiling mud and sulphur will consume the marsh as its brood erupts from the depths, spilling across the Vale to feed upon every living thing.
+
+Should the beast break free, every hex within **3 hexes of Hex 21** is transformed into a **Sulphur Swamp**. Ash clouds darken the sky, acidic rain falls in frequent storms, and choking sulphur hangs in the air, making travel perilous even for seasoned adventurers. The once-familiar trails of Misty Vale become hostile, as volcanic vents, poisonous fog, and the creature's offspring spread across the land.
+
+The titan has failed.
+
+Now only the adventurers stand between the Vale and a second catastrophe.
 
 
 
