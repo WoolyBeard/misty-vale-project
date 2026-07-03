@@ -67,6 +67,26 @@ Use these in place of, or alongside, the standard Dragonbane journey mishaps whi
 
 
 
-### 1
-### 2
-### 4
+## 1
+
+## 2
+
+## 3
+
+## 4
+
+## 5
+
+## 6
+
+## 7
+
+## 8
+
+## 9
+
+## 10
+
+## 11
+
+## 12
