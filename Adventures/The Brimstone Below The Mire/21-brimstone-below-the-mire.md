@@ -26,7 +26,7 @@ Beneath the temple, the leviathan stirs.
 
 Unless the creature is stopped, it will soon awaken and transform **Hex 21** into a volcanic wasteland. Rivers of boiling mud and sulphur will consume the marsh as its brood erupts from the depths, spilling across the Vale to feed upon every living thing.
 
-Should the beast break free, every hex within **3 hexes of Hex 21** is transformed into a **Sulphur Swamp**. Ash clouds darken the sky, acidic rain falls in frequent storms, and choking sulphur hangs in the air, making travel perilous even for seasoned adventurers. The once-familiar trails of Misty Vale become hostile, as volcanic vents, poisonous fog, and the creature's offspring spread across the land.
+Should the beast break free, every hex within **3 hexes of Hex 21** is transformed into a **Sulphur Swamp**. Ash clouds darken the sky, acidic rain falls in frequent storms, and choking sulphur hangs in the air, making travel perilous even for seasoned adventurers. The once familiar trails of Misty Vale become hostile, as volcanic vents, poisonous fog, and the creature's offspring spread across the land.
 
 The titan has failed.
 
