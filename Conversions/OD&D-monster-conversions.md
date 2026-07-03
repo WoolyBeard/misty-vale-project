@@ -1,98 +1,170 @@
-# OD&D to Dragonbane Conversion
+# Manually Converting OSE Monsters to Dragonbane
 
-## Armor Value
+This guide explains how to convert an Old-School Essentials (OSE) monster into a Dragonbane monster without using the conversion script.
 
-Armor Value = **9 - AC**
-
-| OD&D AC | Armor | Dragonbane Armor Value |
-|---------:|-------|-----------------------:|
-| AC 8 | Leather | 1 |
-| AC 7 | Studded | 2 |
-| AC 5 | Chain | 4 |
-| AC 3 | Plate | 6 |
-| etc. | | |
+Most statistics can be converted mechanically. **Ferocity should always be assigned by the GM** based on the monster's intended role in combat (see `ferocity-conversion-notes.md`).
 
 ---
 
-## Hit Points
+## Step 1. Armor Value
 
-### Under 2 HD
+Convert descending OSE Armor Class to Dragonbane Armor Value.
 
-Use **10 HP base**, +/- 1 = +/- 2.
-
-| Hit Dice | HP |
-|----------:|---:|
-| HD ½ | 5 HP |
-| HD 1-1 | 8 HP |
-| HD 1 | 10 HP |
-| HD 1+1 | 12 HP |
-
-### 2 HD+
-
-Use **7 HP per HD** plus any static bonus.
-
-| Hit Dice | HP |
-|----------:|---:|
-| HD 2 | 14 HP |
-| HD 2+2 | 18 HP |
-| HD 3 | 20 HP |
-| HD 3+1 | 21 HP |
-| HD 4+1 | 30 HP |
-| etc. | |
+| OSE AC | Dragonbane AV |
+|-------:|--------------:|
+| 9 | 0 |
+| 8 | 1 |
+| 7 | 2 |
+| 5–6 | 3 |
+| 3–4 | 4 |
+| 1–2 | 5 |
+| 0 to -1 | 6 |
+| -2 to -3 | 7 |
+| -4 or better | 8 |
 
 ---
 
-## Damage
+## Step 2. Hit Points
 
-Damage is usually about double, likewise, but single target damage should not exceed **4 dice**.
+Convert Hit Dice to Dragonbane HP.
+
+### Less than 2 HD
+
+| OSE HD | Dragonbane HP |
+|--------|--------------:|
+| ½ | 5 |
+| 1−1 | 8 |
+| 1 | 10 |
+| 1+1 | 12 |
+| 1+2 | 14 |
+| 1+3 | 16 |
+
+### 2 HD or More
+
+Use the following formula:
+
+```
+HP = (Whole HD × 7) + Static Bonus
+```
+
+Examples:
+
+| OSE HD | Dragonbane HP |
+|--------|--------------:|
+| 2 | 14 |
+| 2+2 | 16 |
+| 3 | 21 |
+| 4 | 28 |
+| 5+1 | 36 |
 
 ---
 
-## Hit Dice to Typical Skill
+## Step 3. Typical Skill
 
-| Hit Dice | Typical Skill |
-|----------:|--------------:|
-| 0.5 | 8 |
-| 1-1 | 10 |
+Assign a Typical Skill value based on the monster's Hit Dice.
+
+| OSE HD | Typical Skill |
+|--------|--------------:|
+| ½ | 8 |
+| 1−1 | 10 |
 | 1 | 12 |
-| 1+1 | 13 |
-| 2 | 13 |
+| 1+1 to 2 | 13 |
 | 3 | 14 |
-| 4-5 | 15 |
-| 6-7 | 16 |
-| 8-9 | 17 |
+| 4–5 | 15 |
+| 6–7 | 16 |
+| 8–9 | 17 |
 | 10+ | 18 |
 
 ---
 
-# Examples
+## Step 4. Evade
 
-## Giant Rat (Animal)
+Unless the monster is exceptionally agile or clumsy:
 
-- **Movement:** 12
-- **HP:** 5
-- **Attack:** Bite (skill level 8, damage D6)
-- **Awareness:** 12
-- **Evade:** 10
-- **Sneaking**
+```
+Evade = Typical Skill − 2
+```
+
+Never reduce Evade below **8**.
+
+Adjust this value if the creature is notably nimble, sluggish, or supernatural.
 
 ---
 
-## Kobold (NPC)
+## Step 5. Movement
 
-- **Movement:** 8
-- **Damage Bonus:** -
-- **Typical Armor:** -, often have small shields
-- **HP:** 5
+OSE movement is normally listed as:
 
-### Skills
+```
+120' (40')
+```
 
-- Awareness 10
-- Spear 8
-- Sword 8
-- Sneaking 13
+Use the value in parentheses (the dungeon movement), then divide by 10.
 
-### Typical Weapons
+Examples:
 
-- Short Spear D10
-- Short Sword D10
+| OSE Movement | Dragonbane |
+|-------------|-----------:|
+| 30' (10') | 1 |
+| 60' (20') | 2 |
+| 90' (30') | 3 |
+| 120' (40') | 4 |
+| 150' (50') | 5 |
+
+If no parenthetical value exists, divide the listed movement by 10.
+
+---
+
+## Step 6. Damage
+
+Dragonbane monsters generally hit harder than their OSE counterparts.
+
+Double the number of damage dice, to a maximum of four dice.
+
+| OSE Damage | Dragonbane Damage |
+|-----------|------------------|
+| 1d4 | 2d4 |
+| 1d6 | 2d6 |
+| 1d8 | 2d8 |
+| 2d6 | 4d6 |
+| 3d6 | 4d6 |
+
+Keep any special wording such as "or by weapon."
+
+---
+
+## Step 7. Multiple Attacks
+
+If an OSE monster has multiple attacks (such as **2 claws and 1 bite**), keep those attacks in Dragonbane.
+
+List each attack separately using the monster's Typical Skill.
+
+---
+
+## Step 8. Ferocity
+
+Do **not** calculate Ferocity from Hit Dice.
+
+Instead, assign Ferocity based on the monster's intended battlefield role and how it is expected to be encountered.
+
+See **`ferocity-conversion-notes.md`** for guidance.
+
+---
+
+## Step 9. Special Abilities
+
+Most OSE special abilities can be carried over with minimal changes.
+
+When necessary:
+
+- Replace saving throws with Dragonbane skill rolls or opposed rolls.
+- Convert percentage chances into a d20 or skill roll where appropriate.
+- Rewrite abilities to use Dragonbane terminology while preserving their original intent.
+
+---
+
+## Step 10. Monster Attacks Table
+
+Finally, create a Dragonbane **d6 Monster Attack Table**.
+
+Whenever possible, convert the creature's signature attacks and special abilities into cinematic Dragonbane monster attacks rather than simply copying the OSE attack routine. A good Monster Attack Table should make the creature feel unique and encourage dynamic combat.
