@@ -10,18 +10,6 @@ Most statistics can be converted mechanically. **Ferocity should always be assig
 
 Convert descending OSE Armor Class to Dragonbane Armor Value.
 
-| OSE AC | Dragonbane AV |
-|-------:|--------------:|
-| 9 | 0 |
-| 8 | 1 |
-| 7 | 2 |
-| 5–6 | 3 |
-| 3–4 | 4 |
-| 1–2 | 5 |
-| 0 to -1 | 6 |
-| -2 to -3 | 7 |
-| -4 or better | 8 |
-
 | Descending AC | Ascending AC | Dragonbane AV | Typical Armor |
 |--------------:|-------------:|--------------:|---------------|
 | 9 | 10 | 0 | Unarmored |
