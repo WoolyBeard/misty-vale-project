@@ -1,1 +1,1 @@
-![Brimstone](Images/BrimstoneBelowTheMire.png)
+![BrimstoneBelowTheMire](Images/BrimstoneBelowTheMire.png)
