@@ -44,7 +44,9 @@ Use these in place of, or alongside, the standard Dragonbane journey mishaps whi
 
 > *The swamp is never quiet. Even on the calmest day it hisses, bubbles, breathes, and occasionally burns.*
 
+---
 
+** Temple Of the Sulphur Beast
 
 
 ![TempleoftheSulphurBeast](temple_of_the_sulphur_beast.png)
