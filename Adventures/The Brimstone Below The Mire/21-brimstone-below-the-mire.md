@@ -88,12 +88,17 @@ Use these in place of, or alongside, the standard Dragonbane journey mishaps whi
 ## 2
 
 ## 3
+Corpses of skeletons and a wall covered in claw marks it appears the bones of the skeletons are fractured and covered in circular shaped indents (suction cups from kraken spawn) 
+
+The hidden chamber where the high priest hid in his final days, most of his treasures are amassed here, gold has long since melted and cover his skeleton, this skeleton attacks if any of the treasure is disturbed and sloshes molten gold burning whoever is near. 
 
 ## 4
 
 ## 5
 
-## 6
+## 6 
+Ancient ritual font leading deep into the earth, now bubbling over with magma that cascades into the lower levels of the temple. A ancient mechanism is at the eastern edge of the pool but its handle or tool that screws into the base is missing.
+> The mechanisms lever is hidden in the secret room 11 under the lava. 
 
 ## 7
 
