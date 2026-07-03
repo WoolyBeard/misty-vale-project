@@ -2,6 +2,21 @@
 
 
 
+## The Situation Thus Far
+
+During the height of Eledain's empire, a splinter sect abandoned the worship of dragons, believing only fire itself was worthy of reverence. They vanished into the great swamps, where they raised a temple above deep volcanic fissures, tending eternal flames fed by sulphur and brimstone.
+
+In their endless search for the source of the sacred fire, they dug too deep.
+
+From the abyss below emerged an ancient leviathan a colossal, kraken like horror with skin like black obsidian and a maw that breathed sulphur and ash. Mistaking the beast for the living heart of fire, the cult bent the knee. They fed it sacrifices, built shrines in its name, and became utterly devoted.
+
+They never realized they were not its chosen.
+
+They were livestock.
+
+Eledain's court mages uncovered the truth through a scrying ritual: the creature was preparing to flood the surface with its ravenous brood. Unable to destroy it, Eledain struck a desperate bargain with the ancient giants. One of their colossal war machines was sent to the temple, where it held the gates shut while the complex was sealed. The titan fell at its post, entombing the cult, their false god, and whatever still waited beneath the mire.
+
+
 ## Travelling near the Sulphured Swamp
 > Roll on these tables when travelling around or in hex 21. 
 
