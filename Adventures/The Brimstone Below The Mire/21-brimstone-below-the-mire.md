@@ -83,7 +83,15 @@ Use these in place of, or alongside, the standard Dragonbane journey mishaps whi
 
 
 
+## The Temple
+
+> Anyone venturing into the temple will suffer exhaustion after an hour due to immense heat.
+> Rooms with lava are fully lit unless said otherwise, Rooms without are shrouded in dim light from cracks in temple wall and floors. 
+
+
 ## 1
+
+Two sets of stairs from the upper entrance of the temple descend into darknes, the smell of sulphur is lessened here but the rising heat feels like a blast from a furnace. 
 
 ## 2
 
