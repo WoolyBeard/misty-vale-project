@@ -4,7 +4,7 @@
 
 ## Travelling near the sulphured swamp, IE within 1 hex around 21. 
 
-# Fiery Sulphur Swamp
+
 
 The swamp is alive. Warm mud bubbles beneath every footstep, sulphur hangs thick in the air, and ancient fires still burn beneath the mire. Weather here is not merely atmospheric—it's volcanic.
 
