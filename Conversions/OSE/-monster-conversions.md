@@ -137,7 +137,7 @@ Keep any special wording such as "or by weapon."
 
 If an OSE monster has multiple attacks (such as **2 claws and 1 bite**), keep those attacks in Dragonbane.
 
-List each attack separately using the monster's Typical Skill.
+List each attack separately using the monster's Typical Skill or if a standalone monster to individual table entries where applicable. 
 
 ---
 
