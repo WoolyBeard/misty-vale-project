@@ -2,7 +2,7 @@
 
 Ferocity is the single most important value on a monster. It determines how many times the creature acts each round, affecting not only its damage output but also how long it survives. Every additional action forces the heroes to spend more of their own actions dodging or parrying instead of attacking, increasing the monster's effective durability.
 
-> Don't choose Ferocity based on how "powerful" a creature is—choose it based on how the encounter should feel.
+> Don't choose Ferocity based on how "powerful" a creature is choose it based on how the encounter should feel.
 
 ---
 
