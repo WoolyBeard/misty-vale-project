@@ -22,6 +22,18 @@ Convert descending OSE Armor Class to Dragonbane Armor Value.
 | -2 to -3 | 7 |
 | -4 or better | 8 |
 
+| Descending AC | Ascending AC | Dragonbane AV | Typical Armor |
+|--------------:|-------------:|--------------:|---------------|
+| 9 | 10 | 0 | Unarmored |
+| 8 | 11 | 1 | Leather |
+| 7 | 12 | 2 | Studded Leather |
+| 5–6 | 13–14 | 3 | Scale / Brigandine |
+| 3–4 | 15–16 | 4 | Chainmail |
+| 1–2 | 17–18 | 5 | Heavy Chain |
+| 0 to -1 | 19–20 | 6 | Plate |
+| -2 to -3 | 21–22 | 7 | Masterwork / Magical Plate |
+| -4 or better | 23+ | 8 | Legendary Protection |
+
 ---
 
 ## Step 2. Hit Points
