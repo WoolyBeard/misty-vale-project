@@ -1,6 +1,6 @@
 # Manually Converting OSE Monsters to Dragonbane
 
-This guide explains how to convert an Old-School Essentials (OSE) monster into a Dragonbane monster without using the conversion script.
+This guide explains how to convert an Old-School Essentials (OSE) monster into a Dragonbane monster
 
 Most statistics can be converted mechanically. **Ferocity should always be assigned by the GM** based on the monster's intended role in combat (see `ferocity-conversion-notes.md`).
 
