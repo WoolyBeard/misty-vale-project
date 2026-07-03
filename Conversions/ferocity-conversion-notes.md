@@ -33,7 +33,7 @@ Ferocity should reinforce that identity. A nimble predator may have higher Feroc
 
 A monster with **Ferocity 3** does not simply deal three times as much damage as one with **Ferocity 1**.
 
-Each additional action also pressures the party's defenses. Players often spend actions dodging or parrying instead of attacking, meaning a high-Ferocity monster naturally survives longer because the heroes have fewer opportunities to strike back.
+Each additional action also pressures the party's defenses. Players often spend actions dodging or parrying instead of attacking, meaning a high Ferocity monster naturally survives longer because the heroes have fewer opportunities to strike back.
 
 Think of Ferocity as a measure of a monster's battlefield presence, not just its offensive power. It represents how relentlessly the creature keeps the initiative, forces reactions, and controls the pace of combat.
 
