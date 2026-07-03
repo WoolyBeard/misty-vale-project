@@ -6,7 +6,7 @@
 
 
 
-The swamp is alive. Warm mud bubbles beneath every footstep, sulphur hangs thick in the air, and ancient fires still burn beneath the mire. Weather here is not merely atmospheric—it's volcanic.
+The swamp is alive. Warm mud bubbles beneath every footstep, sulphur hangs thick in the air, and ancient fires still burn beneath the mire. Weather here is downright volcanic.
 
 ## Weather (1d8)
 
