@@ -20,7 +20,7 @@ Eledain's court mages uncovered the truth through a scrying ritual: the creature
 
 ## Rumours of Brimstone Below the Mire
 
-Ask around any hearth, ferry, or lonely homestead near the southern marshes and you'll hear whispers of the old temple. Roll **1D6** or choose a rumour.
+Ask around any inn, or lonely homestead near the southern marshes and you'll hear whispers of the old temple. Roll **1D6** or choose a rumour.
 
 | d6 | Rumour | Truth? |
 |:--:|---------|:------:|
