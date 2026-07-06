@@ -89,6 +89,8 @@ The Caretaker **cannot** attack enemies, crush invaders, remove monsters from th
 
 # The Village and its inhabitants
 
+![ThePastoralTown](./PegPeople.png)
+
 
 ## Village Roster
 
