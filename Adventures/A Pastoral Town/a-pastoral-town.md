@@ -14,7 +14,7 @@ The Room is a 50x50 featureless cube except the walls are painted with life like
 
 In the center the floor is a perfect 40x40 foot pastoral town, a miniature diorama. Tiny cottages, winding lanes, and a village square sit beneath walls painted with an endless illusion of golden cornfields stretching to every horizon.
 
-The moment a creature touches the village or steps within 5 feet of it, they shrink to the scale of the diorama.
+The moment a creature touches the village or steps within it, they shrink to the scale of the diorama.
 
 Life within seems perfectly ordinary. Supplies can be purchased, doors opened, and conversations held as expected. The only oddity is the villagers themselves: eleven peg-like people with square bodies, round heads, and painted faces. Though they resemble simple children's toys, they speak, laugh, worry, and emote as naturally as any person.
 
