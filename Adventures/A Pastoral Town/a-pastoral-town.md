@@ -92,8 +92,8 @@ The Caretaker **cannot** attack enemies, crush invaders, remove monsters from th
 
 | NPC | Role | Relationships | Current Concern |
 |------|------|---------------|-----------------|
-| **Old Tom** | Elderly Farmer | Constantly argues with **Old Martha** | Wants to retrieve his scarecrow from the fields. |
-| **Old Martha** | Elderly Widow | Lives with **Old Tom** | Refuses to leave without her keepsake chest. |
+| **Old Tom** | Elderly Farmer | Constantly argues with **Old Martha** | Wants to retrieve his scarecrow from the fields, doesn't think his wife is right. |
+| **Old Martha** | Elderly Widow | Contradicts **Old Tom** | Refuses to leave without Tom admitting she is right. |
 | **Ben** | Carpenter | Husband of **Anna**, father of **Will** | Repairing the jammed mill wheel. |
 | **Anna** | Homemaker | Wife of **Ben**, mother of **Will** | Searching for her missing son. |
 | **Eli** | Miller | Friend of Ben | Clearing an overturned wagon from the bridge. |
