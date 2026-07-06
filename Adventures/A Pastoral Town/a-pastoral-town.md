@@ -36,8 +36,8 @@ Two weathered brass plaques are fixed beside the miniature village.
 
 > Those who tread near streets become its people.
 >
-> Those who remain above may shape what lies below.
->
+> Those who dwell therin are both real and unreal, flesh and wood. 
+> 
 > When every soul survives the night, the way shall reveal itself.
 
 
