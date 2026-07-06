@@ -26,7 +26,7 @@ When the sun rises, the village resets. The dead live again, buildings are resto
 
 Only by ensuring that every villager survives the night does the hidden skull appear.
 
-Leaving the diorama by any other means is impossible. 
+Leaving the diorama by any other means is impossible, and the villagers are their own worst enemies. 
 
 # The Brass Plaques 
 
