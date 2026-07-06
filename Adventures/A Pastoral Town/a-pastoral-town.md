@@ -33,7 +33,7 @@ Leaving the diorama by any other means is impossible.
 Two weathered brass plaques are fixed beside the miniature village.
 
 
-## The Citizens Rule
+## The Citizen's Rule
 
 > Those who tread near become its people.
 >
