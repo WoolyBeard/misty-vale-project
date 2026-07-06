@@ -135,13 +135,13 @@ Old Tom ⇄ Old Martha
 (Constantly bickering)
 
 Father Paul
-Warns the village of his vision.
+Warns the village of his vision. Tends to Granny May.
 
 Eli
 Friend of Ben and the village miller.
 
 Granny May
-Bedridden in the infirmary.
+Bedridden in the infirmary. Tended to by Father Paul. 
 
 
 ---
