@@ -46,7 +46,7 @@ Two weathered brass plaques are fixed beside the miniature village.
 
 ## The Caretaker's Rule
 
-> One may remain beyond the Tower and bear the Hand of the Caretaker.
+> One may remain beyond the town and bear the hand of the Caretaker.
 >
 > While the sun yet shines, the Caretaker may perform **one** of the following each day:
 >
