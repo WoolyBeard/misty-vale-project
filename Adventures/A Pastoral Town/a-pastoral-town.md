@@ -60,7 +60,7 @@ Two weathered brass plaques are fixed beside the miniature village.
 >
 > At any time, the Caretaker may:
 > * **Strategize** At nightfall the caretaker is allowed to assist in calling out enemy movements or direct players. 
-> * **Speak** a short message heard by all who stand below, any who say "Oh Caretaker" allow them to talk directly to their Lord" 
+> * **Speak** a short message heard by all or an individual who stands below, any who say "Oh Caretaker" allow them to talk directly to their Lord" 
 >
 > The Caretaker may not directly harm those within, nor strike the green host that comes with night.
 >
