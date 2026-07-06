@@ -31,11 +31,54 @@ When the sun rises, the village resets. The dead live again, buildings are resto
 
 Only by ensuring that every villager survives the night does the hidden skull appear.
 
-
-
 Leaving the diorama by any other means is impossible. 
-Players who haven't entered the diorama should be able to assist somehow. 
 
+
+## The Caretaker's Rule
+
+A weathered brass plaque is fixed beside the miniature village.
+
+> One may remain beyond the Tower and bear the Hand of the Caretaker.
+>
+> While the sun yet shines, the Caretaker may perform **one** of the following each day:
+>
+> * **Move** one object within the village.
+> * **Place** one object into the village.
+> * **Relocate** one willing creature to another place within the village.
+> * **Repair** one damaged structure or object.
+> * **Observe** any place within the village.
+>
+> At any time, the Caretaker may:
+> * **Speak** a short message heard by all who stand below, any who say "Oh Caretaker allow them to talk directly to their Lord" 
+>
+> The Caretaker may not directly harm those within, nor strike the green host that comes with night.
+>
+> **A gentle hand may guide, but never rule.**
+
+---
+
+### GM Advice
+
+The Caretaker exists to give players outside the diorama meaningful choices without overshadowing those within. Each action should feel significant, so limit them to **one action per in-game hour** (roughly 18 actions before nightfall).
+
+The Caretaker is encouraged to think creatively. If a proposed action is similar in scope to those listed, allow it. The intent is to let them reshape the battlefield in subtle ways—not solve the encounter outright.
+
+Some examples include:
+
+* Moving a wagon to block a road.
+* Dropping a rope, stick, pebble, or other small object into the village.
+* Repairing a broken bridge or reinforcing a barricade.
+* Relocating a willing hero to respond to an emergency.
+* Looking down on any part of the village to scout enemy movements or locate a missing villager.
+* Speaking a brief warning, encouragement, or instruction that echoes through the town like the voice of a distant god.
+
+The Caretaker **cannot** attack enemies, crush invaders, remove monsters from the board, or otherwise bypass the central challenge. Their role is to support, inform, and enable the heroes inside the village, not to win the battle for them.
+
+
+
+---
+
+# The Village and its inhabitants
 
 
 ## Village Roster
