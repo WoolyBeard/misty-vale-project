@@ -55,6 +55,7 @@ Two weathered brass plaques are fixed beside the miniature village.
 > * **Relocate** one willing creature to another place within the village.
 > * **Repair** one damaged structure.
 > * **Observe** any place in detail within the village.
+> * **Read** The thoughts of any one villager. 
 > * **Shape** the land, build or excavate
 >
 > At any time, the Caretaker may:
