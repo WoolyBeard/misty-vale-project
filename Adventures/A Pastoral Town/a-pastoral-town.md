@@ -93,16 +93,16 @@ The Caretaker **cannot** attack enemies, crush invaders, remove monsters from th
 | NPC | Role | Relationships | Current Concern |
 |------|------|---------------|-----------------|
 | **Old Tom** | Elderly Farmer | Constantly argues with **Old Martha** | Wants to retrieve his scarecrow from the fields, doesn't think his wife is right. |
-| **Old Martha** | Elderly Widow | Contradicts **Old Tom** | Refuses to leave without Tom admitting she is right. |
-| **Ben** | Carpenter | Husband of **Anna**, father of **Will** | Repairing the jammed mill wheel. |
-| **Anna** | Homemaker | Wife of **Ben**, mother of **Will** | Searching for her missing son. |
-| **Eli** | Miller | Friend of Ben | Clearing an overturned wagon from the bridge. |
-| **Rose** | Baker | Admired by **Jack** and **Peter** | Preparing for tomorrow's Harvest Feast. |
-| **Jack** | Blacksmith | Rival of **Peter**, in love with **Rose** | Determined to duel Peter at sunset. |
-| **Peter** | Shepherd | Rival of **Jack**, in love with **Rose** | Won't back down from the duel. |
-| **Father Paul** | Priest | Spiritual guide to the village | Preparing the chapel for the coming evil. |
-| **Will** | Curious Boy | Son of **Ben** and **Anna** | Wandering near the great oak outside town. |
-| **Granny May** | Infirm Villager | Cared for by the village | Bedridden in the infirmary and unable to flee. |
+| **Old Martha** | Elderly Widow | Contradicts everything **Old Tom** says | Refuses to leave without Tom admitting she is right. |
+| **Ben** | Carpenter | Husband of **Anna**, father of **Will** | Repairing the jammed mill wheel. for the harvest festival |
+| **Anna** | Apocathary | Wife of **Ben**, mother of **Will** | Searching for her missing son. Worried and will wander farther |
+| **Eli** | Miller | Friend of Ben | Clearing an overturned wagon from the bridge, contains the cornmeal shipment for the festival |
+| **Rose** | Baker | Admired by **Jack** and **Peter** | Preparing for tomorrow's Harvest Feast, unaware that she is in a love triangle and has a lover away. |
+| **Jack** | Blacksmith | Rival of **Peter**, in love with **Rose** | Determined to duel Peter at noon to the death. |
+| **Peter** | Shepherd | Rival of **Jack**, in love with **Rose** | Won't back down from the duel to the death. |
+| **Father Paul** | Priest | Spiritual guide to the village | Preparing the chapel for the coming evil. Knows the caretaker can be spoken to and does so diligently. |
+| **Will** | Curious Boy | Son of **Ben** and **Anna** | Wandering near the great oak outside town. Looking for a birds nest. |
+| **Granny May** | Infirm Villager | Cared for by the village | Bedridden in the infirmary and unable to flee, in constant pain. |
 
 ## Relationships
 
