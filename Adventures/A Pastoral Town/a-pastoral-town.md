@@ -3,7 +3,7 @@
 
 
 
-A Pastoral Town beset by nightfall. Can the players survive this challenge? Or will the wear and tear of time erode their desires to leave?
+A Pastoral Town beset by the udnead at nightfall. Can the players survive this challenge? Or will the wear and tear of time erode their desires to leave?
 
 ---
 
