@@ -58,12 +58,14 @@ Two weathered brass plaques are fixed beside the miniature village.
 > * **Read** The thoughts of any one villager. 
 > * **Shape** the land, build or excavate
 >
->   At Night the Caretaker can:
+> At Night the Caretaker can:
+> 
 > * **Close** Slam shut and lock any **one** threshold, window door or shutter.
 > * **Calm** Soothe any one distraught villager, this prevents them from further boughts of madness.
 > * **Halt** Stop any one moving creature from acting for one turn. 
 >
 > At any time, the Caretaker may:
+> 
 > * **Strategize** At nightfall the caretaker is allowed to assist in calling out enemy movements or direct players. 
 > * **Speak** a short message heard by all or an individual who stands below, any who say "Oh Caretaker" allow them to talk directly to their Lord" 
 >
