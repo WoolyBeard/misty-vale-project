@@ -11,7 +11,7 @@ A pastoral town beset by the undead each night. Can the heroes keep its people a
 # Start Here
 
 
-The floor is a perfect 50×50-foot pastoral town, no larger than a miniature diorama. Tiny cottages, winding lanes, and a village square sit beneath walls painted with an endless illusion of golden cornfields stretching to every horizon.
+The floor is a perfect 40x40 foot pastoral town, no larger than a miniature diorama. Tiny cottages, winding lanes, and a village square sit beneath walls painted with an endless illusion of golden cornfields stretching to every horizon.
 
 The moment a creature touches the village or steps within 5 feet of it, they shrink to the scale of the diorama.
 
