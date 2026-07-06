@@ -34,9 +34,11 @@ Two weathered brass plaques are fixed beside the miniature village.
 
 ## The Citizens Rule
 
-> Those who tread near streets become its people.
+> Those who tread near become its people.
 >
-> Those who dwell therin are both real and unreal, flesh and wood. 
+> The ones who dwell therin are both real and unreal, flesh and wood.
+>
+> Emotions will dictate the day. 
 > 
 > When every soul survives the night, the way shall reveal itself.
 
