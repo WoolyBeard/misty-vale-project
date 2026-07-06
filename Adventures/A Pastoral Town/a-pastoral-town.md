@@ -137,7 +137,7 @@ Bedridden in the infirmary.
 
 ---
 
-# The Ten Villagers
+# The Eleven Villagers
 
 Each morning the villagers awaken believing it to be an ordinary day. They remember nothing of previous nights and continue their routines unless convinced otherwise. Every villager has a pressing concern that, if left unresolved, will place them in grave danger when the green host marches from the cornfields at dusk.
 
