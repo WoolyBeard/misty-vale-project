@@ -50,7 +50,7 @@ Two weathered brass plaques are fixed beside the miniature village.
 > * **Move** one object within the village.
 > * **Place** one object into the village.
 > * **Relocate** one willing creature to another place within the village.
-> * **Repair** one damaged structure or object.
+> * **Repair** one damaged structure.
 > * **Observe** any place in detail within the village.
 > * **Shape** the land, build or excavate
 >
@@ -131,14 +131,11 @@ Granny May
 Bedridden in the infirmary.
 
 
-
-
-
 ---
 
 # The Ten Villagers
 
-Each morning the villagers awaken believing it is an ordinary day. They remember nothing of previous nights and continue their routines unless convinced otherwise. Every one of them has a pressing concern that, if left unresolved, will place them directly in the path of the green invaders once night falls.
+Each morning the villagers awaken believing it to be an ordinary day. They remember nothing of previous nights and continue their routines unless convinced otherwise. Every villager has a pressing concern that, if left unresolved, will place them in grave danger when the green host marches from the cornfields at dusk.
 
 ---
 
@@ -146,95 +143,95 @@ Each morning the villagers awaken believing it is an ordinary day. They remember
 
 Lives in a cottage on the western edge of town.
 
-A stubborn old farmer convinced the fields have always been safe. He spends most of the day arguing with Martha and refuses to leave while his beloved scarecrow still stands in the corn.
+A stubborn old farmer who refuses to admit Martha is ever right. Though age has slowed him, his pride has not.
 
-**Current Situation:** His prize scarecrow is still in the field. If night falls before it's retrieved, Tom marches out to fetch it himself.
+**Current Situation:** Something large has been trampling the western cornfield and repeatedly knocking over Tom's beloved scarecrow. Convinced it's nothing more than a troublesome beast, he insists on marching into the fields to set it upright before sunset.
 
-**Actionable:** Convince him to abandon it, retrieve the scarecrow for him, or physically prevent him from leaving.
+**Actionable:** Investigate whatever is flattening the corn, retrieve the scarecrow, convince Tom to leave it, or settle the argument between him and Martha.
 
 ---
 
 ## Old Martha
 
-Lives beside Tom.
+Tom's sharp-tongued wife.
 
-Certain that locking the door solves every problem. She constantly contradicts Tom, making every decision take twice as long.
+She contradicts nearly everything Tom says—not because she dislikes him, but because she's usually right.
 
-**Current Situation:** She refuses to leave without her keepsake chest hidden in the attic.
+**Current Situation:** Martha is certain whatever lurks in the corn is dangerous. She refuses to leave until Tom admits she's right and agrees to abandon the scarecrow.
 
-**Actionable:** Retrieve the chest, convince her it isn't worth risking her life, or fortify the cottage enough that she never needs to leave.
+**Actionable:** Mediate the argument, convince Tom to relent, or remove the scarecrow so neither has reason to return to the fields.
 
 ---
 
 ## Ben
 
-The village carpenter and Will's father.
+The village carpenter, husband of Anna, and father of Will.
 
-Practical and level-headed. If shown proof of danger, he'll gladly help defend the town.
+Dependable and practical, Ben always puts the village before himself.
 
-**Current Situation:** The mill wheel has jammed, threatening tomorrow's flour supply. Ben is determined to repair it before sunset.
+**Current Situation:** The mill wheel has jammed before tomorrow's Harvest Festival. Ben cannot move the heavy millstones alone and needs assistance before repairs can begin.
 
-**Actionable:** Help repair the mill, convince him to abandon it, or assign someone else to finish the work so he can prepare defenses.
+**Actionable:** Help Ben repair the mill or recruit others to assist him. Once finished, he'll gladly help fortify the village and listen to Father Paul. 
 
 ---
 
 ## Anna
 
-Will's mother.
+The village apothecary.
 
-Protective to a fault. The moment her son goes missing, everything else ceases to matter.
+A skilled herbalist whose remedies keep the town healthy.
 
-**Current Situation:** Will has wandered off again. Anna spends the day searching farther from town with every passing hour.
+**Current Situation:** Will has wandered off again. Anna refuses to sell potions or prepare medicines until her son is safely home.
 
-**Actionable:** Find Will before she does, escort them both home, or persuade her someone else is already looking.
+**Actionable:** Find Will and return him to his mother. Once reunited, Anna freely prepares healing tinctures and poultices.
 
 ---
 
 ## Eli
 
-The miller.
+The village miller.
 
-Strong, dependable, and willing to follow a sensible plan.
+Strong, patient, and one of Ben's closest friends.
 
-**Current Situation:** A heavily loaded wagon has overturned on the bridge. Eli refuses to leave until it's cleared.
+**Current Situation:** A wagon carrying the Harvest Festival's cornmeal has overturned on the bridge and broken its axle. Eli can't right it alone or repair it. 
 
-**Actionable:** Help move the wagon, find another route, or convince him it can wait until tomorrow.
+**Actionable:** Recruit Jack and Peter to help repair the wagon or find another solution. Once cleared, the cornmeal reaches Rose's bakery.
 
 ---
 
 ## Rose
 
-The baker.
+The village baker.
 
-Kind-hearted and always thinking of others.
+Warm hearted and blissfully unaware that two men intend to kill one another over her. Her own sweetheart left the village months ago, and she faithfully reads his letters.
 
-**Current Situation:** Tomorrow is the Harvest Feast. She insists on baking enough bread to feed everyone and refuses to leave her ovens.
+**Current Situation:** Rose refuses to leave the bakery until enough cornbread has been baked for tomorrow's Harvest Festival but she cannot begin until Eli's cornmeal arrives after being ground at the mill.
 
-**Actionable:** Finish the baking for her, persuade her the feast can wait, or relocate her supplies somewhere safer.
+**Actionable:** Deliver the cornmeal, help finish the baking, or convince her the festival can wait.
 
 ---
 
 ## Jack
 
-The blacksmith.
+The village blacksmith.
 
-Hopelessly in love with Rose. Loud, proud, and eager to prove himself.
+Hot headed, proud, and convinced Rose will love whichever man proves himself the stronger.
 
-**Current Situation:** He has challenged Peter to a duel at sunset to settle who deserves Rose's affection.
+**Current Situation:** Jack has challenged Peter to a duel to the death at noon and refuses to back down.
 
-**Actionable:** Prevent the duel, convince him bravery takes another form, or get Rose to settle the matter herself.
+**Actionable:** Prevent the duel, redirect his efforts toward helping Eli or Ben, or convince him Rose never wanted this.
 
 ---
 
 ## Peter
 
-The shepherd.
+The village wagoner.
 
-Equally smitten with Rose and just as stubborn.
+Hardworking and dependable, but every bit as stubborn as Jack.
 
-**Current Situation:** He has accepted Jack's challenge and refuses to appear cowardly.
+**Current Situation:** Peter has accepted Jack's challenge, believing refusing it would cost him Rose forever.
 
-**Actionable:** Stop the duel through diplomacy, distraction, or by convincing both men they're being foolish.
+**Actionable:** Convince him to abandon the duel, recruit him to help clear the wagon, or reveal Rose has no interest in either suitor.
 
 ---
 
@@ -242,32 +239,36 @@ Equally smitten with Rose and just as stubborn.
 
 Caretaker of the village chapel.
 
-He awoke from a terrifying dream of green figures marching from the fields, though no one believes him.
+The only villager who senses something is terribly wrong. Every morning he dreams of the green host, and every morning the village dismisses him.
 
-**Current Situation:** He is convinced the evil will enter through the chapel doors and spends the day fortifying the wrong building.
+**Current Situation:** Father Paul spends the day praying and speaking to the unseen Caretaker above the village. The townsfolk trust his judgment and are far more likely to heed his requests than those of strangers.
 
-**Actionable:** Convince him where the true threat lies or help him prepare a more effective defense.
+**Actionable:** Ask Father Paul to rally villagers, calm disputes, organize defenses, or spread warnings throughout the town.
 
 ---
 
 ## Will
 
-Ben and Anna's young son.
+Ben and Anna's adventurous young son.
 
-An endlessly curious child who spends his afternoons exploring.
+Curious to a fault and forever wandering where he shouldn't.
 
-**Current Situation:** He believes a tiny blue bird nests in the great oak at the edge of the cornfields and wanders there every day.
+**Current Situation:** Will has wandered to the great oak at the edge of the western cornfield searching for a bird's nest, oblivious to the dangers at nightfall, no one knows where he is but some have an idea:
+- The Old Scarecrow - Old Martha
+- Top of the Mill - Eli
+- Under the Bridge - Rose
+- The old Oak outside of town - Jack or Peter, won't even remember until after the duel is settled. 
 
-**Actionable:** Find him before sunset, keep him occupied elsewhere, or convince him the bird will return tomorrow.
+**Actionable:** Find him and return him safely to Anna before darkness falls.
 
 ---
 
 ## Granny May
 
-A cracked and broken toy villager lying in the infirmary.
+The oldest villager, bedridden in the infirmary.
 
-Her wooden leg is splintered, one arm hangs by painted twine, and she can barely shuffle without help.
+Her painted wooden body is cracked with age, and every movement brings obvious pain.
 
-**Current Situation:** She refuses to leave her bed, insisting the pain becomes unbearable if she's moved.
+**Current Situation:** Granny May cannot flee. She requires constant care and will be among the first villagers overwhelmed if left unattended.
 
-**Actionable:** Carry her somewhere safe despite her protests, reinforce the infirmary, or assign someone to remain and protect her throughout the night.
+**Actionable:** Assign someone to protect her, reinforce the infirmary, or carry her somewhere safer despite her protests.
