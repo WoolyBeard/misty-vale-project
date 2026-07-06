@@ -100,8 +100,8 @@ The Caretaker **cannot** attack enemies, crush invaders, remove monsters from th
 | **Old Martha** | Elderly Widow | Contradicts everything **Old Tom** says | Refuses to leave without Tom admitting she is right, and to leave the scarecrow. |
 | **Ben** | Carpenter | Husband of **Anna**, father of **Will** | Repairing the jammed mill wheel. for the harvest festival, requires assistance to lift heavy stones. |
 | **Anna** | Apocathary | Wife of **Ben**, mother of **Will** | Searching for her missing son. Worried and will wander farther, she will not sell potions or make tinctures untl he is found. |
-| **Eli** | Miller | Friend of Ben | Clearing an overturned wagon from the bridge, contains the cornmeal shipment for the festival, may require the assistance of both **Jack** and **Peter** |
-| **Rose** | Baker | Admired by **Jack** and **Peter** | Preparing for tomorrow's Harvest Feast and won't budge until cornbread is made. Unaware that she is in a love triangle and has a lover away. |
+| **Eli** | Miller | Friend of Jack and Peter | Clearing an overturned wagon from the bridge, contains the cornmeal shipment for the festival, may require the assistance of both **Jack** and **Peter** |
+| **Rose** | Baker | Admired by **Jack** and **Peter** | Preparing for tomorrow's Harvest Feast and won't budge until cornbread is made. Unaware that she is in a love triangle and has a lover already, **Eli**. |
 | **Jack** | Blacksmith | Rival of **Peter**, in love with **Rose** | Determined to duel Peter at noon to the death. |
 | **Peter** | Wagoner | Rival of **Jack**, in love with **Rose** | Won't back down from the duel to the death. |
 | **Father Paul** | Priest | Spiritual guide to the village | Preparing the chapel for the coming evil. Knows the caretaker can be spoken to and does so diligently. Can assist the party as the town respects him. |
@@ -195,9 +195,9 @@ A skilled herbalist whose remedies keep the town healthy.
 
 The village miller.
 
-Strong, patient, and one of Ben's closest friends.
+Strong, patient, and one of Jack and Peters closest friends.
 
-**Current Situation:** A wagon carrying the Harvest Festival's cornmeal has overturned on the bridge and broken its axle. Eli can't right it alone or repair it. 
+**Current Situation:** A wagon carrying the Harvest Festival's cornmeal has overturned on the bridge and broken its axle. Eli can't right it alone or repair it. He is madly in love with Rose but keeps it secret from Jack and Peter. He is unaware of the duel to the death. 
 
 **Actionable:** Recruit Jack and Peter to help repair the wagon or find another solution. Once cleared, the cornmeal reaches Rose's bakery.
 
@@ -207,7 +207,7 @@ Strong, patient, and one of Ben's closest friends.
 
 The village baker.
 
-Warm hearted and blissfully unaware that two men intend to kill one another over her. Her own sweetheart left the village months ago, and she faithfully reads his letters.
+Warm hearted and blissfully unaware that two men intend to kill one another over her. Her own sweetheart, Eli and she faithfully reads his letters.
 
 **Current Situation:** Rose refuses to leave the bakery until enough cornbread has been baked for tomorrow's Harvest Festival but she cannot begin until Eli's cornmeal arrives after being ground at the mill.
 
