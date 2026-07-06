@@ -271,4 +271,4 @@ Her painted wooden body is cracked with age, and every movement brings obvious p
 
 **Current Situation:** Granny May cannot flee. She requires constant care and will be among the first villagers overwhelmed if left unattended.
 
-**Actionable:** Assign someone to protect her, reinforce the infirmary, or carry her somewhere safer despite her protests.
+**Actionable:** Assign someone to protect her, reinforce the infirmary, or carry her somewhere safer despite her protests, medicine from Anna May assist her, moving her without it could result in death. 
