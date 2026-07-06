@@ -1,6 +1,7 @@
 # A Pastoral Town
+---
 
-> **The Floor Knows No View Beyond the Tower.**
+> The Floor Knows No View Beyond the Tower.**
 >
 > Those who tread its streets become its people.
 >
@@ -10,6 +11,10 @@
 
 
 
+
+---
+
+# Start Here
 
 
 The floor is a perfect 50×50-foot pastoral town, no larger than a miniature diorama. Tiny cottages, winding lanes, and a village square sit beneath walls painted with an endless illusion of golden cornfields stretching to every horizon.
