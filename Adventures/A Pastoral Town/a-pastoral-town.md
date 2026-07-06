@@ -1,16 +1,4 @@
 # A Pastoral Town
----
-
-> The Floor Knows No View Beyond the Tower.**
->
-> Those who tread its streets become its people.
->
-> Those who remain above may shape what lies below.
->
-> When every soul survives the night, the way shall reveal itself.
-
-
-
 
 ---
 
@@ -33,10 +21,21 @@ Only by ensuring that every villager survives the night does the hidden skull ap
 
 Leaving the diorama by any other means is impossible. 
 
+# The Brass Plaques 
+
+Two weathered brass plaques are fixed beside the miniature village.
+
+
+## The Citizens Rule
+
+> Those who tread near streets become its people.
+>
+> Those who remain above may shape what lies below.
+>
+> When every soul survives the night, the way shall reveal itself.
+
 
 ## The Caretaker's Rule
-
-A weathered brass plaque is fixed beside the miniature village.
 
 > One may remain beyond the Tower and bear the Hand of the Caretaker.
 >
@@ -46,10 +45,12 @@ A weathered brass plaque is fixed beside the miniature village.
 > * **Place** one object into the village.
 > * **Relocate** one willing creature to another place within the village.
 > * **Repair** one damaged structure or object.
-> * **Observe** any place within the village.
+> * **Observe** any place in detail within the village.
+> * **Shape** the land, build or excavate
 >
 > At any time, the Caretaker may:
-> * **Speak** a short message heard by all who stand below, any who say "Oh Caretaker allow them to talk directly to their Lord" 
+> * **Strategize** At nightfall the caretaker is allowed to assist in calling out enemy movements or direct players. 
+> * **Speak** a short message heard by all who stand below, any who say "Oh Caretaker" allow them to talk directly to their Lord" 
 >
 > The Caretaker may not directly harm those within, nor strike the green host that comes with night.
 >
@@ -59,9 +60,9 @@ A weathered brass plaque is fixed beside the miniature village.
 
 ### GM Advice
 
-The Caretaker exists to give players outside the diorama meaningful choices without overshadowing those within. Each action should feel significant, so limit them to **one action per in-game hour** (roughly 18 actions before nightfall).
+The Caretaker exists to give players outside the diorama meaningful choices without overshadowing those within. Each action should feel significant, so limit them to **one action  of each type per in game day** (roughly 6 actions before nightfall).
 
-The Caretaker is encouraged to think creatively. If a proposed action is similar in scope to those listed, allow it. The intent is to let them reshape the battlefield in subtle ways—not solve the encounter outright.
+The Caretaker is encouraged to think creatively. If a proposed action is similar in scope to those listed, allow it. The intent is to let them reshape the battlefield in subtle ways not solve the encounter outright.
 
 Some examples include:
 
