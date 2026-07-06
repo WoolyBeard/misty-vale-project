@@ -70,7 +70,7 @@ Two weathered brass plaques are fixed beside the miniature village.
 
 ### GM Advice
 
-The Caretaker exists to give players outside the diorama meaningful choices without overshadowing those within. Each action should feel significant, so limit them to **one action  of each type per in game day** (roughly 6 actions before nightfall).
+The Caretaker exists to give players outside the diorama meaningful choices without overshadowing those within. Each action should feel significant, so limit them to **one action  of each type per in game day** (roughly 7 or 8 actions before nightfall).
 
 The Caretaker is encouraged to think creatively. If a proposed action is similar in scope to those listed, allow it. The intent is to let them reshape the battlefield in subtle ways not solve the encounter outright.
 
