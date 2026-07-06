@@ -3,7 +3,8 @@
 
 
 
-### A Pastoral Town beset by the udnead at nightfall. Can the players survive this challenge? Or will they succumb to the hordes. 
+A pastoral town beset by the undead each night. Can the heroes keep its people alive until dawn?
+
 
 ---
 
