@@ -10,7 +10,7 @@ A pastoral town beset by the undead each night. Can the heroes keep its people a
 
 # Start Here
 
-The Room is a 50x50 featureless cube except the walls are painted with near lifelile mosaics of a cornfield, most who enter this room believe they are in an endless cornfield unless they probe the walls. 
+The Room is a 50x50 featureless cube except the walls are painted with life like mosaics of a cornfield, most who enter this room believe they are in an endless field unless they probe the walls. 
 
 In the center the floor is a perfect 40x40 foot pastoral town, a miniature diorama. Tiny cottages, winding lanes, and a village square sit beneath walls painted with an endless illusion of golden cornfields stretching to every horizon.
 
