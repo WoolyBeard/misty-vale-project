@@ -104,6 +104,9 @@ The Caretaker **cannot** attack enemies, crush invaders, remove monsters from th
 </details>
 ---
 
+<details>
+  <summary>The Village and its inhabitants</summary>
+
 # The Village and its inhabitants
 
 ![ThePastoralTown](./PegPeople.png)
@@ -124,32 +127,6 @@ The Caretaker **cannot** attack enemies, crush invaders, remove monsters from th
 | **Father Paul** | Priest | Spiritual guide to the village | Preparing the chapel for the coming evil. Knows the caretaker can be spoken to and does so diligently. Can assist the party as the town respects him. |
 | **Will** | Curious Boy | Son of **Ben** and **Anna** | Wandering near the great oak outside town. Looking for a birds nest. |
 | **Granny May** | Infirm Villager | Cared for by the village | Bedridden in the infirmary and unable to flee, in constant pain. |
-
-## Relationships
-
-                    Ben ───── Anna
-                      │
-                   (Parents)
-                      │
-                     Will
-
-         Jack ────♥
-                   │
-                 Rose
-                   │
-         Peter ───♥
-
-Old Tom ⇄ Old Martha
-(Constantly bickering)
-
-Father Paul
-Warns the village of his vision. Tends to Granny May.
-
-Eli
-Friend of Ben and the village miller.
-
-Granny May
-Bedridden in the infirmary. Tended to by Father Paul. 
 
 
 ---
@@ -295,8 +272,10 @@ Her painted wooden body is cracked with age, and every movement brings obvious p
 **Actionable:** Assign someone to protect her, reinforce the infirmary, or carry her somewhere safer despite her protests, medicine from Anna May assist her, moving her without it could result in death. 
 
 
-
+</details>
 ---
+
+
 
 # Keeping Time
 
