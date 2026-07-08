@@ -9,7 +9,7 @@ A pastoral town beset by the undead each night. Can the heroes keep its people a
 ---
 
 <details>
-  <summary>Click to expand this section</summary>
+  <summary> Start Here</summary>
 
 # Start Here
 
@@ -34,7 +34,7 @@ Leaving the diorama by any other means is impossible, and the villagers are thei
 </details>
 
 <details>
-  <summary>Click to expand this section</summary>
+  <summary>The Brass Plaques </summary>
 
 # The Brass Plaques 
 
