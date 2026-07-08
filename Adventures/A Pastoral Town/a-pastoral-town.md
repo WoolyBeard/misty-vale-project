@@ -310,9 +310,9 @@ The Town is tiny fitting within a 40x40 block, for the purpose of moving within 
 | 10 | Mill | Eli | The waterwheel turns with a steady groan. Flour dust hangs in the air and grain sacks line the walls, this place could go up with the slightest bit of fire, a sign says "NO FIRE!" |
 | 11 | Barn | — | Hay, leather, and livestock mingle into a familiar country smell. Swallows nest in the rafters, there are two wooden horses here, and two wooden cows. |
 | 12 | Farm House | Old Tom, Old Martha | Bare branches sway in the autumn wind beside this old, broken home. Fallen apples rot sweetly beneath the trees left unpicked, and bickering can be heard behind closed doors. |
-| 13 | Old Oak | — | A massive oak stands at the village edge. Its leaves whisper despite there being no wind. the feint sound of a bird chirping can be heard above |
-| 14 | Southern Bridge | — | A weathered stone bridge spans the creek. Water trickles gently beneath worn planks, a well placed attack could send it crumbling |
-| 15 | Scarecrow Field | — | Rows of harvested fields stretch beyond a lonely scarecrow. Wooden Crows watch silently from nearby fence posts. and an odd acrid smell hangs in the air |
+| 13 | Old Oak | — (Will spends his days here) | A massive oak stands at the village edge. Its leaves whisper despite there being no wind. the feint sound of a bird chirping can be heard above |
+| 14 | Southern Bridge | — (A broken wagon and Eli are here at the start of the day by noon he attempts to get help) | A weathered stone bridge spans the creek. Water trickles gently beneath worn planks, a well placed attack could send it crumbling |
+| 15 (secret south west of 12) | Scarecrow Field | — | Rows of harvested fields stretch beyond a lonely scarecrow. Wooden Crows watch silently from nearby fence posts. and an odd acrid smell hangs in the air |
 
 
 ---
