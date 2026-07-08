@@ -283,8 +283,7 @@ Her painted wooden body is cracked with age, and every movement brings obvious p
   test
 ---
 
-<details>
-
+</details>
   
 <details>
   <summary>Keeping Time</summary>
@@ -371,4 +370,4 @@ Describe the world around them.
 These small reminders reinforce that every conversation, search, and delay brings the village closer to night.
 
 ---
-<details>
+</details>
