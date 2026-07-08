@@ -8,6 +8,9 @@ A pastoral town beset by the undead each night. Can the heroes keep its people a
 
 ---
 
+<details>
+  <summary>Click to expand this section</summary>
+
 # Start Here
 
 The Room is a 50x50 featureless cube except the walls are painted with life like mosaics of a cornfield, most who enter this room believe they are in an endless field unless they probe the walls. 
@@ -27,6 +30,11 @@ When the sun rises, the village resets. The dead live again, buildings are resto
 Only by ensuring that every villager survives the night does the hidden skull appear.
 
 Leaving the diorama by any other means is impossible, and the villagers are their own worst enemies. 
+
+</details>
+
+<details>
+  <summary>Click to expand this section</summary>
 
 # The Brass Plaques 
 
@@ -77,7 +85,7 @@ Two weathered brass plaques are fixed beside the miniature village.
 
 ### GM Advice
 
-The Caretaker exists to give players outside the diorama meaningful choices without overshadowing those within. Each action should feel significant, so limit them to **one action  of each type per in game day** (roughly 7 or 8 actions before nightfall).
+The Caretaker exists to give players outside the diorama meaningful choices without overshadowing those within. Each action should feel significant, so limit them to **one action  of each type per in game day**.
 
 The Caretaker is encouraged to think creatively. If a proposed action is similar in scope to those listed, allow it. The intent is to let them reshape the battlefield in subtle ways not solve the encounter outright.
 
@@ -93,7 +101,7 @@ Some examples include:
 The Caretaker **cannot** attack enemies, crush invaders, remove monsters from the board, or otherwise bypass the central challenge. Their role is to support, inform, and enable the heroes inside the village, not to win the battle for them.
 
 
-
+</details>
 ---
 
 # The Village and its inhabitants
