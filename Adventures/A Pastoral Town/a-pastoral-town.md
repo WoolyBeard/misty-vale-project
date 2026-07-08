@@ -277,6 +277,17 @@ Her painted wooden body is cracked with age, and every movement brings obvious p
 
 </details>
 
+<details>
+  <summary>The Town</summary>
+
+  
+---
+
+<details>
+  
+<details>
+  <summary>Keeping Time</summary>
+
 # Keeping Time
 
 The village is small enough that distance is rarely an obstacle. Time, however, is.
@@ -357,3 +368,6 @@ Describe the world around them.
 > *The sun hangs lower above the western fields.*
 
 These small reminders reinforce that every conversation, search, and delay brings the village closer to night.
+
+---
+<details>
