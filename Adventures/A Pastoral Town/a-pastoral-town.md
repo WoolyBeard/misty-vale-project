@@ -290,7 +290,7 @@ Her painted wooden body is cracked with age, and every movement brings obvious p
 
 ---
 
-### Keeping Time
+# Keeping Time
 
 The village is small enough that distance is rarely an obstacle. Time, however, is.
 
@@ -314,11 +314,11 @@ Use these as guidelines rather than strict rules. If something would reasonably 
 
 ---
 
-# Daylight
+## Daylight
 
-The adventure begins at **06:00** on a late November morning.
+The adventure begins at **06:00** on a late November(ish) morning.
 
-Dusk falls at **18:00**.
+Dusk falls at **18:00**. This gives the players **12 hours**
 
 As the hours pass, the village changes naturally.
 
@@ -329,11 +329,11 @@ As the hours pass, the village changes naturally.
 - The streets grow quieter.
 - Long shadows creep across the square.
 
-The world does not wait for the players.
+The village is alive and bustling. 
 
 ---
 
-# Wasting Time
+## Wasting Time
 
 The players are free to spend their time however they wish.
 
@@ -351,7 +351,7 @@ The pressure comes not from the distance between locations, but from the knowled
 
 ---
 
-# GM Guidance
+## GM Guidance
 
 Do not interrupt the players simply because time has passed. Instead, remind them that the day is moving on.
 
