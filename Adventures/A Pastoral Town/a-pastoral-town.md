@@ -290,236 +290,83 @@ Her painted wooden body is cracked with age, and every movement brings obvious p
 
 ---
 
+# Keeping Time
 
-# Traversing the Pastoral Town
+The village is small enough that distance is rarely an obstacle. Time, however, is.
 
-The village is intentionally small. Nothing is far away, and the pace of life is slow. Most villagers know one another and can usually be found near their homes, tending animals, working gardens, or gathering in the square.
+Keep a visible clock, beginning at **06:00**. Advance it whenever the players spend meaningful time.
 
-## Time of Day
-
-The adventure takes place during **late November**.
-
-There are **12 hours of usable daylight** before dusk.
-
-| Time | Description |
-|------|-------------|
-| Dawn | 6:00 |
-| Morning | 7:00–10:00 |
-| Midday | 10:00–14:00 |
-| Afternoon | 14:00–17:00 |
-| Dusk | 18:00 |
-| Night | After 18:00 |
-
-Unless otherwise stated, assume villagers return to their homes as darkness approaches.
-
----
-
-# Movement
-
-The village is compact enough that travel rarely becomes the challenge. Decisions and conversations consume far more time than walking.
-
-## Travel Times
-
-| Destination | Time |
-|------------|------:|
-| Adjacent building | 2 minutes |
-| Across the village | 5 minutes |
-| From one edge of town to the opposite edge | 8 minutes |
-| Walk to the Old Oak | 6 minutes |
-| Cross the southern bridge | 1 minute |
-
-As a rule of thumb:
-
-> **Moving anywhere within the village costs 5 minutes.**
-
-Only use exact travel times if precise timing becomes important, near the end of the day. 
-
----
-
-# Conversations
-
-Not every interaction requires roleplaying every sentence.
-
-## Typical Conversation Length
-
-| Interaction | Time |
-|------------|------:|
-| Greeting or asking a simple question | 2–3 minutes |
-| Brief conversation | 5 minutes |
-| Meaningful discussion | 10–15 minutes |
-| Convincing someone, resolving an argument, or gathering detailed information | 20–30 minutes |
-
-If players linger, continue questioning, or repeatedly revisit someone, time continues to pass naturally.
-
----
-
-# Investigating
-
-Searching takes considerably longer than simply looking.
+## Common Activities
 
 | Activity | Time |
 |----------|------:|
-| Look around an area | 5 minutes |
-| Search a room carefully | 10 minutes |
-| Search an entire house | 20–30 minutes |
-| Read journals or letters | 10–20 minutes |
-| Examine unusual objects | 10 minutes |
+| Travel to another numbered location | 10 minutes |
+| Cross the southern bridge | Included in movement |
+| Brief conversation | 10 minutes |
+| Lengthy discussion or interrogation | 20–30 minutes |
+| Search a room | 10 minutes |
+| Search an entire building | 20–30 minutes |
+| Examine an unusual object | 10 minutes |
+| Repair, build, or organize | 30–60 minutes |
+| Rest or wait | As long as desired |
+
+Use these as guidelines rather than strict rules. If something would reasonably take longer, let it.
 
 ---
 
-# Solving Problems
+# Daylight
 
-Whenever the players attempt to fix, build, move, or overcome an obstacle, estimate how long it would reasonably take.
+The adventure begins at **06:00** on a late November morning.
 
-## General Guidelines
+Dusk falls at **18:00**.
 
-| Task | Time |
-|------|------:|
-| Lift or move a small object | 5 minutes |
-| Barricade a door | 10 minutes |
-| Repair simple damage | 20–30 minutes |
-| Treat injuries | 20 minutes |
-| Organize several villagers | 30 minutes |
-| Build a meaningful defense | 1 hour |
-| Thoroughly search multiple buildings | 1 hour |
+As the hours pass, the village changes naturally.
 
-If several characters work together, halve the required time where appropriate.
+- Villagers leave for errands.
+- Meals are prepared.
+- Shops close.
+- Smoke rises from chimneys.
+- The streets grow quieter.
+- Long shadows creep across the square.
 
----
-
-# Waiting
-
-Players may intentionally spend time waiting.
-
-| Activity | Time |
-|----------|------:|
-| Rest briefly | 15 minutes |
-| Eat a meal | 30 minutes |
-| Wait for someone | Any amount chosen |
+The world does not wait for the players.
 
 ---
 
-# Tracking Time
+# Wasting Time
 
-The GM should always keep a visible record of the current time.
+The players are free to spend their time however they wish.
 
-Advance the clock whenever the players:
+They may question every villager, search every home, or argue over their next move. Every decision carries a cost.
 
-- Travel between locations.
-- Finish a conversation.
-- Search a building.
-- Complete a task.
-- Wait intentionally.
+Whenever the players linger, simply advance the clock.
 
-Players should begin to feel the day slipping away. There is enough time to investigate the village, but not enough to waste.
+A discussion that drags on for twenty minutes should cost twenty minutes.
 
----
+Searching several houses may consume hours.
 
-# The Pace of Play
+If the players choose to wait, advance the clock by however much time they spend.
 
-Rather than counting every individual minute, think in **5-minute increments**.
-
-Nearly every meaningful action advances time by at least one increment.
-
-- Walk somewhere.
-- Speak with someone.
-- Search a room.
-- Examine an object.
-- Solve a problem.
-
-Small actions (opening doors, looking through windows, stepping into a garden) happen as part of the current increment.
+The pressure comes not from the distance between locations, but from the knowledge that daylight is finite.
 
 ---
 
+# GM Guidance
 
-# Quick Time Tracking: The Village Turn 
+Do not interrupt the players simply because time has passed. Instead, remind them that the day is moving on.
 
+Rather than saying:
 
-The Pastoral Town is designed to be explored in short, meaningful increments.
+> "Another ten minutes pass."
 
-Each **Village Turn** represents **10 minutes**.
+Describe the world around them.
 
-Whenever the players do something that meaningfully changes the situation, advance one Village Turn.
+> *The church bell tolls the hour.*
 
-Examples include:
+> *The smell of fresh bread drifts from nearby homes.*
 
-- Move to another numbered location.
-- Speak with a villager.
-- Search a room.
-- Examine something unusual.
-- Attempt to solve a problem.
-- Wait for events to unfold.
+> *Children disappear indoors as the afternoon cools.*
 
-Small actions (opening doors, glancing around, crossing a yard, drawing weapons, etc.) happen within the current turn.
+> *The sun hangs lower above the western fields.*
 
----
-
-# Travel
-
-Unless timing becomes extremely important:
-
-**Moving from any numbered location to any other numbered location costs one Village Turn (10 minutes).**
-
-Exceptions:
-
-- Crossing Bridge **14** only takes a moment and is included in movement.
-- Walking from any location to the Old Oak **13** still takes one Village Turn.
-
----
-
-# Multiple Actions
-
-Some activities require additional Village Turns.
-
-| Activity | Turns |
-|----------|------:|
-| Quick conversation | 1 |
-| Thorough conversation | 2 |
-| Search a room | 1 |
-| Search an entire building | 2–3 |
-| Read journals or letters | 1–2 |
-| Repair simple damage | 2–3 |
-| Organize the villagers | 3 |
-| Build meaningful defenses | 6 |
-
----
-
-# Interruptions
-
-Events don't wait for the players.
-
-At the end of every Village Turn the Caretaker may:
-
-- Advance NPC schedules.
-- Move villagers.
-- Trigger encounters.
-- Reveal changes in the village.
-- Escalate ongoing dangers.
-
-Players should never feel punished for exploring, but they should feel the world continues moving around them.
-
----
-
-# Daily Clock
-
-There are **72 Village Turns** between dawn (06:00) and dusk (18:00).
-
-Rather than writing times constantly, simply keep a turn counter.
-
-| Turns | Time |
-|------:|------|
-| 0 | 06:00 |
-| 6 | 07:00 |
-| 12 | 08:00 |
-| 18 | 09:00 |
-| 24 | 10:00 |
-| 30 | 11:00 |
-| 36 | 12:00 |
-| 42 | 13:00 |
-| 48 | 14:00 |
-| 54 | 15:00 |
-| 60 | 16:00 |
-| 66 | 17:00 |
-| 72 | Dusk (18:00) |
-
-The Caretaker only needs to increase the turn counter after meaningful actions.
+These small reminders reinforce that every conversation, search, and delay brings the village closer to night.
