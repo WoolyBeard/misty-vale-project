@@ -281,7 +281,7 @@ Her painted wooden body is cracked with age, and every movement brings obvious p
 
 The village is small enough that distance is rarely an obstacle. Time, however, is.
 
-Keep a visible clock, beginning at **06:00**. Advance it whenever the players spend meaningful time.
+You may opt to keep a visible clock, beginning at **06:00**. Advance it whenever the players spend meaningful time.
 
 ## Common Activities
 
@@ -340,7 +340,7 @@ The pressure comes not from the distance between locations, but from the knowled
 
 ## GM Guidance
 
-Do not interrupt the players simply because time has passed. Instead, remind them that the day is moving on.
+Do not interrupt the players simply because time has passed. Instead, remind them that the day is moving on and advance the clock if it is visible. 
 
 Rather than saying:
 
