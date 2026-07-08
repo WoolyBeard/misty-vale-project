@@ -7,7 +7,7 @@ A pastoral town beset by the undead each night. Can the heroes keep its people a
 
 ---
 
-# Foreward 
+# Forward 
 
 This entry makes liberal use of AI from images to reworking my disjointed thoughts and reworking systems. Mostly every bit of text and design has been initially wrote by me and asked to be reworded to the average person can make sense of it. Take that as you will and I hope you enjoy the adventure. 
 
