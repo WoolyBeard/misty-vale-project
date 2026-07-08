@@ -136,7 +136,7 @@ The Caretaker **cannot** attack enemies, crush invaders, remove monsters from th
 | **Rose** | Baker | Admired by **Jack** and **Peter** | Preparing for tomorrow's Harvest Feast and won't budge until cornbread is made. Unaware that she is in a love triangle and has a lover already, **Eli**. |
 | **Jack** | Blacksmith | Rival of **Peter**, in love with **Rose** | Determined to duel Peter at noon to the death. |
 | **Peter** | Wagoner | Rival of **Jack**, in love with **Rose** | Won't back down from the duel to the death. |
-| **Father Paul** | Priest | Spiritual guide to the village | Preparing the chapel for the coming evil. Knows the caretaker can be spoken to and does so diligently. Can assist the party as the town respects him. |
+| **Father Paul** | Priest | Spiritual guide to the village | Preparing the chapel for the coming evil. Knows the caretaker can be spoken to and does so diligently. Can assist the party as the town respects him. He is the only one who remembers every day. Begs for the day to end and to be freed of this torment. |
 | **Will** | Curious Boy | Son of **Ben** and **Anna** | Wandering near the great oak outside town. Looking for a birds nest. |
 | **Granny May** | Infirm Villager | Cared for by the village | Bedridden in the infirmary and unable to flee, in constant pain. |
 
@@ -188,6 +188,8 @@ Dependable and practical, Ben always puts the village before himself.
 ## Anna
 
 The village apothecary.
+
+After the first hour of the day there is a 2 in 6 chance Anna will be wherever the party is looking for her son Will. 
 
 A skilled herbalist whose remedies keep the town healthy.
 
@@ -249,11 +251,13 @@ Hardworking and dependable, but every bit as stubborn as Jack.
 
 Caretaker of the village chapel.
 
-The only villager who senses something is terribly wrong. Every morning he dreams of the green host, and every morning the village dismisses him.
+Every day roll 1d6 on a 1 Father Paul goes insane. 
 
-**Current Situation:** Father Paul spends the day praying and speaking to the unseen Caretaker above the village. The townsfolk trust his judgment and are far more likely to heed his requests than those of strangers.
+The only villager who senses something is terribly wrong. Every morning he dreams of the green host, and every morning the village dismisses him, he remembers each cycles. 
 
-**Actionable:** Ask Father Paul to rally villagers, calm disputes, organize defenses, or spread warnings throughout the town.
+**Current Situation:** Father Paul spends the day praying and speaking to the unseen Caretaker above the village. The townsfolk trust his judgment for now but his ramblings have seemed chaotic of late. They are far more likely to heed his requests than those of strangers.
+
+**Actionable:** Ask Father Paul to rally villagers, calm disputes, organize defenses, or spread warnings throughout the town. But also prevent him from going insane due to his remembering of each cycle. 
 
 ---
 
