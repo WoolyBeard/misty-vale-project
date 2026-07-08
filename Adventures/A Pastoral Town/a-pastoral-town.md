@@ -430,3 +430,96 @@ Nearly every meaningful action advances time by at least one increment.
 Small actions (opening doors, looking through windows, stepping into a garden) happen as part of the current increment.
 
 ---
+
+
+# Quick Time Tracking: The Village Turn 
+
+
+The Pastoral Town is designed to be explored in short, meaningful increments.
+
+Each **Village Turn** represents **10 minutes**.
+
+Whenever the players do something that meaningfully changes the situation, advance one Village Turn.
+
+Examples include:
+
+- Move to another numbered location.
+- Speak with a villager.
+- Search a room.
+- Examine something unusual.
+- Attempt to solve a problem.
+- Wait for events to unfold.
+
+Small actions (opening doors, glancing around, crossing a yard, drawing weapons, etc.) happen within the current turn.
+
+---
+
+# Travel
+
+Unless timing becomes extremely important:
+
+**Moving from any numbered location to any other numbered location costs one Village Turn (10 minutes).**
+
+Exceptions:
+
+- Crossing Bridge **14** only takes a moment and is included in movement.
+- Walking from any location to the Old Oak **13** still takes one Village Turn.
+
+---
+
+# Multiple Actions
+
+Some activities require additional Village Turns.
+
+| Activity | Turns |
+|----------|------:|
+| Quick conversation | 1 |
+| Thorough conversation | 2 |
+| Search a room | 1 |
+| Search an entire building | 2–3 |
+| Read journals or letters | 1–2 |
+| Repair simple damage | 2–3 |
+| Organize the villagers | 3 |
+| Build meaningful defenses | 6 |
+
+---
+
+# Interruptions
+
+Events don't wait for the players.
+
+At the end of every Village Turn the Caretaker may:
+
+- Advance NPC schedules.
+- Move villagers.
+- Trigger encounters.
+- Reveal changes in the village.
+- Escalate ongoing dangers.
+
+Players should never feel punished for exploring, but they should feel the world continues moving around them.
+
+---
+
+# Daily Clock
+
+There are **72 Village Turns** between dawn (06:00) and dusk (18:00).
+
+Rather than writing times constantly, simply keep a turn counter.
+
+| Turns | Time |
+|------:|------|
+| 0 | 06:00 |
+| 6 | 07:00 |
+| 12 | 08:00 |
+| 18 | 09:00 |
+| 24 | 10:00 |
+| 30 | 11:00 |
+| 36 | 12:00 |
+| 42 | 13:00 |
+| 48 | 14:00 |
+| 54 | 15:00 |
+| 60 | 16:00 |
+| 66 | 17:00 |
+| 72 | Dusk (18:00) |
+
+The Caretaker only needs to increase the turn counter after meaningful actions.
