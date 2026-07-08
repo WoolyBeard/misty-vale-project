@@ -285,3 +285,146 @@ Her painted wooden body is cracked with age, and every movement brings obvious p
 **Current Situation:** Granny May cannot flee. She requires constant care and will be among the first villagers overwhelmed if left unattended.
 
 **Actionable:** Assign someone to protect her, reinforce the infirmary, or carry her somewhere safer despite her protests, medicine from Anna May assist her, moving her without it could result in death. 
+
+
+
+
+# Traversing the Pastoral Town
+
+The village is intentionally small. Nothing is far away, and the pace of life is slow. Most villagers know one another and can usually be found near their homes, tending animals, working gardens, or gathering in the square.
+
+## Time of Day
+
+The adventure takes place during **late November**.
+
+There are **12 hours of usable daylight** before dusk.
+
+| Time | Description |
+|------|-------------|
+| Dawn | 6:00 |
+| Morning | 7:00–10:00 |
+| Midday | 10:00–14:00 |
+| Afternoon | 14:00–17:00 |
+| Dusk | 18:00 |
+| Night | After 18:00 |
+
+Unless otherwise stated, assume villagers return to their homes as darkness approaches.
+
+---
+
+# Movement
+
+The village is compact enough that travel rarely becomes the challenge. Decisions and conversations consume far more time than walking.
+
+## Travel Times
+
+| Destination | Time |
+|------------|------:|
+| Adjacent building | 2 minutes |
+| Across the village | 5 minutes |
+| From one edge of town to the opposite edge | 8 minutes |
+| Walk to the Old Oak | 6 minutes |
+| Cross the southern bridge | 1 minute |
+
+As a rule of thumb:
+
+> **Moving anywhere within the village costs 5 minutes.**
+
+Only use exact travel times if precise timing becomes important, near the end of the day. 
+
+---
+
+# Conversations
+
+Not every interaction requires roleplaying every sentence.
+
+## Typical Conversation Length
+
+| Interaction | Time |
+|------------|------:|
+| Greeting or asking a simple question | 2–3 minutes |
+| Brief conversation | 5 minutes |
+| Meaningful discussion | 10–15 minutes |
+| Convincing someone, resolving an argument, or gathering detailed information | 20–30 minutes |
+
+If players linger, continue questioning, or repeatedly revisit someone, time continues to pass naturally.
+
+---
+
+# Investigating
+
+Searching takes considerably longer than simply looking.
+
+| Activity | Time |
+|----------|------:|
+| Look around an area | 5 minutes |
+| Search a room carefully | 10 minutes |
+| Search an entire house | 20–30 minutes |
+| Read journals or letters | 10–20 minutes |
+| Examine unusual objects | 10 minutes |
+
+---
+
+# Solving Problems
+
+Whenever the players attempt to fix, build, move, or overcome an obstacle, estimate how long it would reasonably take.
+
+## General Guidelines
+
+| Task | Time |
+|------|------:|
+| Lift or move a small object | 5 minutes |
+| Barricade a door | 10 minutes |
+| Repair simple damage | 20–30 minutes |
+| Treat injuries | 20 minutes |
+| Organize several villagers | 30 minutes |
+| Build a meaningful defense | 1 hour |
+| Thoroughly search multiple buildings | 1 hour |
+
+If several characters work together, halve the required time where appropriate.
+
+---
+
+# Waiting
+
+Players may intentionally spend time waiting.
+
+| Activity | Time |
+|----------|------:|
+| Rest briefly | 15 minutes |
+| Eat a meal | 30 minutes |
+| Wait for someone | Any amount chosen |
+
+---
+
+# Tracking Time
+
+The Caretaker should always keep a visible record of the current time.
+
+Advance the clock whenever the players:
+
+- Travel between locations.
+- Finish a conversation.
+- Search a building.
+- Complete a task.
+- Wait intentionally.
+
+Players should begin to feel the day slipping away. There is enough time to investigate the village, but not enough to waste.
+
+---
+
+# The Pace of Play
+
+Rather than counting every individual minute, think in **5-minute increments**.
+
+Nearly every meaningful action advances time by at least one increment.
+
+- Walk somewhere.
+- Speak with someone.
+- Search a room.
+- Examine an object.
+- Solve a problem.
+
+Small actions (opening doors, looking through windows, stepping into a garden) happen as part of the current increment.
+
+---
