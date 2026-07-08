@@ -20,7 +20,7 @@ Life within seems perfectly ordinary. Supplies can be purchased, doors opened, a
 
 At dusk the eleventh hour, the illusion of tranquility shatters. From the painted cornfields march identical green peg zombies, silent toy invaders intent on killing every villager.
 
-The challenge is simple: keep all ten villagers alive until dawn. The heroes have roughly 18 hours each day to prepare defenses, recruit help, lay traps, or devise their own solutions.
+The challenge is simple: keep all ten villagers alive until dawn. The heroes have roughly 12 hours each day to prepare defenses, recruit help, lay traps, or devise their own solutions.
 
 When the sun rises, the village resets. The dead live again, buildings are restored, and the day begins anew.
 
