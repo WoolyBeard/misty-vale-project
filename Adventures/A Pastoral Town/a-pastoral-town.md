@@ -334,10 +334,10 @@ The Town is tiny, fitting within a 40x40 block, for the purpose of moving within
 | 9 | Wooden Ladder | Reach rooftops, bridge gaps, block alleys, create elevated positions. |
 | 10 | Empty Barrel | Roll downhill, block passages, store water, build makeshift cover. |
 | 11 | Water Bucket | Extinguish fires, soak cloth, create slippery ground, carry supplies. |
-| 12 | Heavy Blanket | Smother flames, hide supplies, muffle sounds, protect against broken glass. |
+| 12 | Heavy Blanket | Smother flames, hide villagers, muffle sounds, protect against broken glass. |
 | 13 | Cart or Wheelbarrow | Move wounded villagers, transport supplies, create rolling barricades. |
 | 14 | Chain & Padlock | Secure gates, reinforce doors, tether large objects together. |
-| 15 | 50 ft. of Clothesline | Lash furniture together, create alarms with bells or bottles, tie villagers together safely. |
+| 15 | 50 ft. of Clothesline | Thinner and Stronger than rope. Lash furniture together, create alarms with bells or bottles, tie villagers together safely. |
 | 16 | Sacks of Flour | Blind attackers, reveal footprints, create slippery floors, mark escape routes. |
 | 17 | Hay Bales | Block narrow passages, provide cover, fuel large fires. |
 | 18 | Large Mirror | Signal across the village, look around corners, distract curious creatures. |
