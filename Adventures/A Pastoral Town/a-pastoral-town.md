@@ -300,7 +300,7 @@ The Town is tiny fitting within a 40x40 block, for the purpose of moving within 
 |--:|----------|-----------|-------------|
 | 1 | Cottage infirmary | Granny May | Woodsmoke curls from the chimney of this white walled wooden structure. A small vegetable garden fills the yard. Wooden chickens scratch beneath the fence, and a pained groan with occasional creak can be heard inside.|
 | 2 | Church | Father Paul | Weathered stone and quiet prayers drift from inside. The smell of old candles lingers beneath worn wooden beams. |
-| 3 | Cottage | - | Warm light spills through the windows. The scent of roasting stew and fresh herbs hangs in the air. |
+| 3 | Rectory | Father Paul's actual home | Warm light spills through the windows. The scent of old food and must hang in the air. Anyone who peers inside see's a disheveled and garbage strewn abode. |
 | 4 | Farmhouse | Ben, Anna & Will | Stacked firewood, muddy boots, and the smell of freshly cut timber surround a well-kept home. |
 | 5 | Smithy | Jack | The rhythmic ring of hammer on anvil echoes across the village. Coal smoke and hot iron fill the air, it sounds like every blow is striking the anvil with malice |
 | 6 | Town Well | - | A  worn stone well where villagers fetch water and exchange the latest news. Buckets creak against old rope, the water is deep but clean |
