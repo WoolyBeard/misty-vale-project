@@ -294,6 +294,27 @@ Her painted wooden body is cracked with age, and every movement brings obvious p
 
 ![ThePastoralTowntoptdown](./PastoralTownMap.png)
 
+The Town is tiny fitting within a 40x40 block, for the purpose of moving within the town, you will be following standard point crawl procedures as the Caretaker player looks on from above. 
+
+| # | Location | Residents | Description |
+|--:|----------|-----------|-------------|
+| 1 | Cottage infirmary | Granny May | Woodsmoke curls from the chimney of this white walled wooden structure. A small vegetable garden fills the yard. Wooden chickens scratch beneath the fence, and a pained groan with occasional creak can be heard inside.|
+| 2 | Church | Father Paul | Weathered stone and quiet prayers drift from inside. The smell of old candles lingers beneath worn wooden beams. |
+| 3 | Cottage | - | Warm light spills through the windows. The scent of roasting stew and fresh herbs hangs in the air. |
+| 4 | Farmhouse | Ben, Anna & Will | Stacked firewood, muddy boots, and the smell of freshly cut timber surround a well-kept home. |
+| 5 | Smithy | Jack | The rhythmic ring of hammer on anvil echoes across the village. Coal smoke and hot iron fill the air, it sounds like every blow is striking the anvil with malice |
+| 6 | Town Well | - | A  worn stone well where villagers fetch water and exchange the latest news. Buckets creak against old rope, the water is deep but clean |
+| 7 | Bakery | Rose | A two story building with a bakery on the first floor, warm bread cools on the windowsill. The sweet aroma of fresh loaves drifts down the lane.  |
+| 8 | Carpenter | - (Ben works Here) | Fresh-cut pine, wood shavings, and half-finished furniture crowd the workshop. |
+| 9 | Wagoner | Peter | A few old wagon wheels are propped on working rigs outside the building a small patchwork garden resides in back | 
+| 10 | Mill | Eli | The waterwheel turns with a steady groan. Flour dust hangs in the air and grain sacks line the walls, this place could go up with the slightest bit of fire, a sign says "NO FIRE!" |
+| 11 | Barn | — | Hay, leather, and livestock mingle into a familiar country smell. Swallows nest in the rafters, there are two wooden horses here, and two wooden cows. |
+| 12 | Farm House | Old Tom, Old Martha | Bare branches sway in the autumn wind beside this old, broken home. Fallen apples rot sweetly beneath the trees left unpicked, and bickering can be heard behind closed doors. |
+| 13 | Old Oak | — | A massive oak stands at the village edge. Its leaves whisper despite there being no wind. the feint sound of a bird chirping can be heard above |
+| 14 | Southern Bridge | — | A weathered stone bridge spans the creek. Water trickles gently beneath worn planks, a well placed attack could send it crumbling |
+| 15 | Scarecrow Field | — | Rows of harvested fields stretch beyond a lonely scarecrow. Wooden Crows watch silently from nearby fence posts. and an odd acrid smell hangs in the air |
+
+
 ---
 
 </details>
