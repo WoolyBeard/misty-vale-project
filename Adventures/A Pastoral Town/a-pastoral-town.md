@@ -5,7 +5,6 @@
 
 A pastoral town beset by the undead each night. Can the heroes keep its people alive until dawn?
 
-
 ---
 
 <details>
@@ -272,10 +271,10 @@ Her painted wooden body is cracked with age, and every movement brings obvious p
 **Actionable:** Assign someone to protect her, reinforce the infirmary, or carry her somewhere safer despite her protests, medicine from Anna May assist her, moving her without it could result in death. 
 
 
-</details>
+
 ---
 
-
+</details>
 
 # Keeping Time
 
