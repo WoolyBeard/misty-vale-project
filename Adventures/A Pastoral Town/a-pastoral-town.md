@@ -105,9 +105,9 @@ The Caretaker **cannot** attack enemies, crush invaders, remove monsters from th
 </details>
 
 <details>
-  <summary>The Village and its inhabitants</summary>
+  <summary>The inhabitants</summary>
 
-# The Village and its inhabitants
+# The inhabitants
 
 ![ThePastoralTown](./PegPeople.png)
 
