@@ -399,7 +399,7 @@ Players may intentionally spend time waiting.
 
 # Tracking Time
 
-The Caretaker should always keep a visible record of the current time.
+The GM should always keep a visible record of the current time.
 
 Advance the clock whenever the players:
 
