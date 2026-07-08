@@ -100,8 +100,9 @@ Some examples include:
 The Caretaker **cannot** attack enemies, crush invaders, remove monsters from the board, or otherwise bypass the central challenge. Their role is to support, inform, and enable the heroes inside the village, not to win the battle for them.
 
 
-</details>
+
 ---
+</details>
 
 <details>
   <summary>The Village and its inhabitants</summary>
