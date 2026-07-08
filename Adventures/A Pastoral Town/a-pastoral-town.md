@@ -298,7 +298,7 @@ Her painted wooden body is cracked with age, and every movement brings obvious p
 
 ![ThePastoralTowntoptdown](./PastoralTownMap.png)
 
-The Town is tiny fitting within a 40x40 block, for the purpose of moving within the town, you will be following standard point crawl procedures as the Caretaker player looks on from above. 
+The Town is tiny, fitting within a 40x40 block, for the purpose of moving within the town, you will be following standard point crawl procedures as the Caretaker player looks on from above. 
 
 | # | Location | Residents | Description |
 |--:|----------|-----------|-------------|
@@ -317,6 +317,32 @@ The Town is tiny fitting within a 40x40 block, for the purpose of moving within 
 | 13 | Old Oak | — (Will spends his days here) | A massive oak stands at the village edge. Its leaves whisper despite there being no wind. the feint sound of a bird chirping can be heard above |
 | 14 | Southern Bridge | — (A broken wagon and Eli are here at the start of the day by noon he attempts to get help) | A weathered stone bridge spans the creek. Water trickles gently beneath worn planks, a well placed attack could send it crumbling |
 | 15 (secret south west of 12) | Scarecrow Field | — | Rows of harvested fields stretch beyond a lonely scarecrow. Wooden Crows watch silently from nearby fence posts. and an odd acrid smell hangs in the air |
+
+## Items Found in and around these buildings
+>Use these if your players are looking for something or trying to find something to help with the undead.
+>
+| d20 | Item | Common Uses |
+|----:|------|-------------|
+| 1 | Coil of Rope (30 ft.) | Tie doors shut, create trip lines, lower someone from a roof, drag heavy objects. |
+| 2 | Hammer & Box of Nails | Barricade doors and windows, repair broken furniture, fashion crude spikes. |
+| 3 | Hatchet | Chop firewood, destroy furniture for barricades, cut ropes or branches. |
+| 4 | Crowbar | Pry open doors, lift heavy beams, wedge doors shut. |
+| 5 | Lantern & Oil | Illuminate dark buildings, spill oil to create slippery ground or fuel a fire. |
+| 6 | Shovel | Dig shallow pits, move earth, brace doors, use as an improvised weapon. |
+| 7 | Pitchfork | Keep enemies at bay, pin creatures against doors or fences, move burning debris. |
+| 8 | Hand Saw | Cut beams, remove fence posts, build crude barricades. |
+| 9 | Wooden Ladder | Reach rooftops, bridge gaps, block alleys, create elevated positions. |
+| 10 | Empty Barrel | Roll downhill, block passages, store water, build makeshift cover. |
+| 11 | Water Bucket | Extinguish fires, soak cloth, create slippery ground, carry supplies. |
+| 12 | Heavy Blanket | Smother flames, hide supplies, muffle sounds, protect against broken glass. |
+| 13 | Cart or Wheelbarrow | Move wounded villagers, transport supplies, create rolling barricades. |
+| 14 | Chain & Padlock | Secure gates, reinforce doors, tether large objects together. |
+| 15 | 50 ft. of Clothesline | Lash furniture together, create alarms with bells or bottles, tie villagers together safely. |
+| 16 | Sacks of Flour | Blind attackers, reveal footprints, create slippery floors, mark escape routes. |
+| 17 | Hay Bales | Block narrow passages, provide cover, fuel large fires. |
+| 18 | Large Mirror | Signal across the village, look around corners, distract curious creatures. |
+| 19 | Bell or Cowbell | Create distractions, lure zombies away, signal other survivors. |
+| 20 | Toolbox | Contains assorted nails, hooks, hinges, wire, wedges, twine, and other useful odds and ends. Gain advantage (or a boon) on improvised construction. |
 
 
 ---
