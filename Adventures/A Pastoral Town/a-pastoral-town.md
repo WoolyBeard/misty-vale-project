@@ -40,6 +40,8 @@ Only by ensuring that every villager survives the night does the hidden skull ap
 
 Leaving the diorama by any other means is impossible, and the villagers are their own worst enemies. 
 
+---
+
 </details>
 
 <details>
